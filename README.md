@@ -2,7 +2,7 @@
 
 My personal notes based on watching Dr. Richard Cook's [lectures on the study of cognitive work](https://vimeo.com/showcase/6184024).
 
-The lectuers were delivered in 2012 at the Royal Institute of Technology in Huddinge, Sweden.
+The lectures were delivered in 2012 at the Royal Institute of Technology in Huddinge, Sweden.
 
 
 ## Accident case studies
