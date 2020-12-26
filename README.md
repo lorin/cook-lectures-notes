@@ -28,6 +28,15 @@ All links are to Wikipedia.
 
 ## By lecture
 
+### Lecture 2: Understanding cognitive demands & goal conflicts; Dryden Air Ontario Crash
+
+* cognitive demands
+* goal conflicts
+
+### References
+
+* David Woods, Erik Hollnagel, [Mapping cognitive demands in complex problem-solving worlds](https://www.researchgate.net/publication/220108174_Mapping_Cognitive_Demands_in_Complex_Problem-Solving_Worlds), Intenational Journal of Man-Machine Studies, Volume 26, Issue 2, 1987, Pages 257-275.
+
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
 
 * artifacts
