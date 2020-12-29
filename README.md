@@ -28,6 +28,16 @@ All links are to Wikipedia.
 
 ## By lecture
 
+All references are just my best guesses from the context of the videos.
+
+### Lecture 1: 
+
+#### 
+
+[Three Mile Island (TMI): A report to the Commissioners and to the Public][rogovin] by the Rogovin Special Inquiry Group of the Nuclear Regulatory Commission (NRC). (The Rogovin report)
+
+[rogovin]: https://tmi2kml.inl.gov/Documents/2b-Rogovin/NUREGCR-1250V1,%20TMI,%20A%20Report%20To%20The%20Commissioners%20And%20To%20The%20Public%20(Rogovin%20Report)%20(1980-01).pdf
+
 ### Lecture 2: Understanding cognitive demands & goal conflicts; Dryden Air Ontario Crash
 
 * cognitive demands
@@ -48,8 +58,8 @@ All links are to Wikipedia.
 
 #### References
 
-These are my best guesses.
 
+* 
 * Lisanne Bainbridge, [Verbal reports as evidence of the process operator's knowledge](https://doi.org/10.1016/S0020-7373(79)80035-8), International Journal of Man-Machine Studies, Volume 11, Issue 4, 1979, Pages 411-436
 * David Woods, [Process tracing methods for the study of cognition outside the experimental psychology laboratory](https://www.researchgate.net/publication/316655550_Process_tracing_methods_for_the_study_of_cognition_outside_the_experimental_psychology_laboratory), 1993. 
 * K. Anders Ericsson and Herbert A. Simon, [Protocol analysis: Verbal reports as data](https://doi.org/10.7551/mitpress/5657.001.0001), MIT Press, 1994.
