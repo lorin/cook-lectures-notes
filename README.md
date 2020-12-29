@@ -8,6 +8,7 @@ The lectures were delivered in 2012 at the Royal Institute of Technology in Hudd
 
 artifacts (cognitive),
 bootstrapping,
+cognitive work,
 demands (cognitive),
 goal conflicts,
 naturalistic decision making (NDM),
@@ -32,9 +33,34 @@ All references are just my best guesses from the context of the videos.
 
 ### Lecture 1: 
 
-#### 
+Cognitive work studies around safety/human performance draw from Three Mile Island:
+* studies of people in simulators
+* work studies
+* incident reporting studies
+* accident investigation studies
+
+Joke in human factors: Until 1979, there were only two kinds of subjects that got any attention from human factors people:
+1. Someone died who shouldn't have (aircraft/transport systems)
+2. Someone didn't die who should have. (weapons system failure)
+
+Researchers who studied Three Mile Island:
+* Jens Rasmussen 
+* Morten Lind
+* David Woods
+* John Senders
+* Neville Moray
+* James Reason
+* Charles Perrow
+
+
+
+#### References
 
 [Three Mile Island (TMI): A report to the Commissioners and to the Public][rogovin] by the Rogovin Special Inquiry Group of the Nuclear Regulatory Commission (NRC). (The Rogovin report)
+* Report of the Presdient's Commission on the Accident at Three Mile Island, Supplemental View by [Thomas H. Pigford](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_thomas_h_pigford.htm)
+* Report of the Presdient's Commission on the Accident at Three Mile Island, Supplemental View by [Bruce Babbitt](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_bruce_babbitt.htm)
+* Jens Rasmussen, [Coping with complexity](https://orbit.dtu.dk/en/publications/coping-with-complexity)
+* Jens Rasmussen, [Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models](https://ieeexplore.ieee.org/abstract/document/6313160)
 
 [rogovin]: https://tmi2kml.inl.gov/Documents/2b-Rogovin/NUREGCR-1250V1,%20TMI,%20A%20Report%20To%20The%20Commissioners%20And%20To%20The%20Public%20(Rogovin%20Report)%20(1980-01).pdf
 
