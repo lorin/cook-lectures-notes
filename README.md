@@ -10,10 +10,16 @@ artifacts (cognitive),
 bootstrapping,
 cognitive work,
 demands (cognitive),
+fixation,
 goal conflicts,
+human error,
+model (mental),
 naturalistic decision making (NDM),
+operators,
 process tracing,
 recognition-primed decision (RPD),
+skills/rules/knowledge (SKR),
+teleology of the system
 
 ## Accident case studies
 
@@ -52,6 +58,14 @@ Researchers who studied Three Mile Island:
 * James Reason
 * Charles Perrow
 
+
+Existing theories about safety didn't explain how it was that the TMI operators could have been confused about what was actually happening in the plant.
+
+The idea that human error was *the cause* because itself something that needed to be studied, and generated a whole series of new researches/quests/examinations on the topic of error itself
+
+The operators believed they were doing the right thing, but had an incorrect model of the plant.
+
+People were upset by TMI b/c there seem to have been multiple opportunities for people to have gotten the right diagnosis.
 
 
 #### References
