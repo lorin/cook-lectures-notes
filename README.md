@@ -1,8 +1,8 @@
 # Notes on Dr. Richard Cook's lectures on the study of cognitive work
 
-My personal notes based on watching Dr. Richard Cook's [lectures on the study of cognitive work](https://vimeo.com/showcase/6184024).
+My personal, unofficial, incomplete notes based on watching Dr. Richard Cook's [lectures on the study of cognitive work](https://vimeo.com/showcase/6184024).
 
-The lectures were delivered in 2012 at the Royal Institute of Technology in Huddinge, Sweden.
+THe seventh lecture is not in the collection, but it can be found on Vimeo at https://vimeo.com/95514812. It is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
 
 ## Terms
 
@@ -99,7 +99,6 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 #### References
 
 
-* 
 * Lisanne Bainbridge, [Verbal reports as evidence of the process operator's knowledge](https://doi.org/10.1016/S0020-7373(79)80035-8), International Journal of Man-Machine Studies, Volume 11, Issue 4, 1979, Pages 411-436
 * David Woods, [Process tracing methods for the study of cognition outside the experimental psychology laboratory](https://www.researchgate.net/publication/316655550_Process_tracing_methods_for_the_study_of_cognition_outside_the_experimental_psychology_laboratory), 1993. 
 * K. Anders Ericsson and Herbert A. Simon, [Protocol analysis: Verbal reports as data](https://doi.org/10.7551/mitpress/5657.001.0001), MIT Press, 1994.
