@@ -89,12 +89,11 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
 
-* artifacts
-* bootstrapping
+TBD
 
 ### Lecture 4: Process traciging, Texas City BP explosion
 
-* process tracing
+TBD
 
 #### References
 
@@ -105,7 +104,12 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 6: Stark, Vincennes, RPD, and NDM
 
-* recognition-primed decision (RPD)
-* naturalistic decision making (NDM)
+TBD
+
+### Lecture 7: Jeffrey Braithwaite Looks at Safety
+
+TBD
 
 ### Lecture 8: Review
+
+TBD
