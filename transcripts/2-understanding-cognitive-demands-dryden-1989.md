@@ -6,23 +6,18 @@ Welcome to seminar number two: understanding cognitive demands and the Dryden Ai
  
 You've had a chance at least to look at some of the materials here and get a handle on the range of things and the range of things in this collection of readings is quite large. It extends all the way from very theoretical bits of stuff that looked really complicated to very concrete things like checklists to as far North as Winnipeg , Manitoba and as far South as the Micronesian Islands. And so it's a kind of a global experience. And the goal of the seminars to put this all together in a way that makes some sense for you, and that gets you a step closer to thinking about cognitive tasks and the cognitive domain that you're trying to enter.
 
-Let's first begin with the look at woods and the paper from 1987. Mapping cognitive demands in a complex problem solving worlds. And this is a an important paper, perhaps not a landmark paper it's been it's been I think not as widely used perhaps as the Not as widely used as the cognitive systems, engineering paper, new wine and new bottles, but it's from the same good ditch. And it's actually quite good for us because in a way it captures the sort of state of things. In 1987, since 1987, things have changed. People have gotten more sophisticated and things have moved around, but that's the first thing that you would notice that when you're looking at this paper is that they're still thinking about nuclear power plants, and they're still trying to figure out how to own their power plant and examples that they take a language is a language basically of control rooms.
+ Let's first begin with the look at Woods and the paper from 1987, mapping cognitive demands in complex problem solving worlds. And this is  an important paper, perhaps not a landmark paper. It's been , I think, not as widely used perhaps as the cognitive systems engineering paper, new wine in new bottles, but it's from the same vintage. And it's actually quite good for us because in a way it captures the sort of state of things in 1987. Since 1987, things have changed. People have gotten more sophisticated and things have moved around, but the first thing that you would notice that when you're looking at this paper is that they're still thinking about nuclear power plants, and they're still trying to figure out how to handle nuclear power plants.
 
-No
+ The examples that they take, the language that they use, is a language basically, of control rooms and interfaces to the nuclear power plant.
 
-control rooms and interfaces
 
-control rooms interfaces to the nuclear power plant.
+And who are then engaged in this complex process of trying to figure out:
 
-And the human operators
+* What's wrong?
+* What's it doing?
+* What's available?
 
-who are getting this information from the control room setting, but you can't see the power plant directly because it's not visible to them. We were trying to get the other and who are engaged in this complex process of trying to figure out What's wrong.
-
-What's it doing?
-
-What's available.
-
-That is one of the things that I, what are the nods or levers that I can grab and twist and pull to make something happen and a lot of stuff. What are. The pluses and minuses of doing X one X, two or so on and so forth. These guys are the basic model of what's happening here is that the plant people are engaged in some sort of process control.
+That is, what are the knobs or levers that I can grab and twist and pull to make something happen and a lot of stuff. What are. The pluses and minuses of doing X one X, two or so on and so forth. These guys are the basic model of what's happening here is that the plant people are engaged in some sort of process control.
 
 And that there's this complex and dangerous thing out here,
 
