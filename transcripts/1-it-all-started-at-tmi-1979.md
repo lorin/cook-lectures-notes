@@ -472,16 +472,18 @@ How much of it, how much of the energy is located in the system where that has b
 
 But the problem is that, that, and this is especially true in healthcare in order to accomplish the things that we wanted to accomplish. We ended up encountering very complicated situations. We could easily say, Oh, we're just going to have one drug. It's going to be aspirin. Okay, that's a great way.
 
-And you can probably deliver it pretty safely. The problem is you can only, there are only a certain number of diseases you can treat with that. And so we end up in the situation where in order to accomplish our ends, we need more and more complex systems. And we're still struggling with trying to figure out how to manage those sorts of things.
+And you can probably deliver it pretty safely. The problem is you can only, there are only a certain number of diseases you can treat with that. And so we end up in the situation where in order to accomplish our ends, we need more and more complex systems. And we're still struggling with trying to figure out how to manage those sorts of things. That struggle is still ongoing.
 
-It's still that struggle is still ongoing.
+Everybody will cite skills, rules, and knowledge. At different times, you'll
+see it in a lot of citations. It's one of the most wonderful papers that's
+ever been written. From my reading it now it's actually quite a pleasure
+because you can see in it that Rasmussen here is foreshadowing a whole bunch
+of stuff that's going to come.
 
-Everybody will site skills, rules, and knowledge. At different times, you'll see it in a lot of citations. It's one of the most. Wonderful papers that's ever been written from my reading it now it's it's actually quite a pleasure because you can see in it that raspiness in here is foreshadowing a whole bunch of stuff that's going to come.
+What he writes about in here is essentially the agenda for the next ten years. And people go on and pursue each one of these activities and they do all the stuff that he is talking about in an effort to get a handle on this. He puts it all together in this particular setting, he describes what the problem is. He describes the underlying theory. He describes the obstacles and the important things that need to be done. He sets out the research program and people go off and do it. 
 
-But he writes about in here is essentially the agenda for the next 10 years. And people go on and pursue each one of these activities and they do all the stuff that he is talking about in an effort to get a handle on this. He puts it all together in this particular setting, he describes what the problem is.
+The *one* thing that he got into trouble with is rules. Because when he used rules, people immediately thought, "Ah... what I need to do is develop a good enough set of rules that has policies and procedures that nobody gets confused".
 
-He describes the underlying theory. He describes the obstacles and the important things that need to be done. He sets out the research program and people go off and do it. The one thing that he got into trouble with his rules, because when he used rules, people immediately thought, ah, what I need to do is develop a good enough set of rules that has policies and procedures that I can get, that nobody gets confused.
+But he wasn't talking about rules in the world; he wasn't talking about rules in the  sense of the volumes of paper that we read. He was talking about human cognition inside this figure  (gestures to whiteboard) . And he's talking about the rules that are built into people's own processing. 
 
-But he wasn't talking about rules in the world. He wasn't talking about rules in the sense of the volumes of paper that we read. He was talking about human cognition inside this figure. And he's talking about the rules that are built into people's own processing.
-
-Okay. Thank you very much. Thanks for sitting through it.
+Okay. Thank you very much.
