@@ -1,6 +1,11 @@
 # 2. Understanding cognitive demands & goal conflicts; Dryden Air Ontario Crash, 1989
 
-Okay. Who seminar? Number two, understanding cognitive demands and the Dryden Air Ontario crash in March of 1989. The thing we should begin with first is questions that people have from previous session of the things that you want to talk about or concerns that you have or issues that have come up, things that you're now.
+Welcome to seminar number two: understanding cognitive demands and the Dryden
+Air Ontario crash in March of 1989. The thing we should begin with first is
+questions that people have from previous session. Are there things that you
+want to talk about or concerns that you have or issues that have come up,
+things that you're now thinking about or things that you want to bring up for
+attention or discussion?
 
 Anything about or things that you want to bring up for attention or discussion. Okay. That's very reassuring. You've had a chance at least to look at some of the materials here and get a handle on the range of things and the range of things in the sponsor is quite large. That extends all the way from.
 
