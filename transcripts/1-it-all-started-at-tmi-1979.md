@@ -44,10 +44,10 @@ nuclear safety, but also an engineering type as engineering kind of view. And
 one from Bruce Babbitt, who was a former governor in the United States, who
 was also on the commission that looked at this.
 
-And then there were a couple of papers. One was "coping with complexity",
+And then there were a couple of papers. One was [coping with complexity](https://orbit.dtu.dk/en/publications/coping-with-complexity),
 which was an old early report from RISO that covered some topics that were
 then of interest written by Jens rasmussen and Morten Lind. And Jens
-Rasmussen's paper "skills, rules, and knowledge".
+Rasmussen's paper [skills, rules, and knowledge](https://ieeexplore.ieee.org/abstract/document/6313160).
 
 I'm sorry that I sent out a copy of it that wasn't easily printed. It had, I
 sent out a copy of that, had a print thing on it. But if you haven't got the
@@ -482,12 +482,6 @@ But he writes about in here is essentially the agenda for the next 10 years. And
 
 He describes the underlying theory. He describes the obstacles and the important things that need to be done. He sets out the research program and people go off and do it. The one thing that he got into trouble with his rules, because when he used rules, people immediately thought, ah, what I need to do is develop a good enough set of rules that has policies and procedures that I can get, that nobody gets confused.
 
-But he wasn't talking about rules in the world. He wasn't talking about rules in the sense of the volumes of paper that we read. He was talking about human cognition inside this figure. And he's talking about the rules that are built into people's own processing. Okay. Thank you very much.
+But he wasn't talking about rules in the world. He wasn't talking about rules in the sense of the volumes of paper that we read. He was talking about human cognition inside this figure. And he's talking about the rules that are built into people's own processing.
 
-Thanks for sitting through it.
-
-Can you hear us yet? Yeah. Steve can hear you, but I'm very sorry that I couldn't follow the video. I didn't have the picture. So that was yeah. All right. We'll have, okay. We'll have a video for you to look at later on when we get this processing done. So you can watch that again. If you really having trouble sleeping.
-
-Yeah.
-
-See, of course it's much easier to fall in love when you can always say you want yeah. Where are you all are on the board. Great. Okay. Thank you. Bye-bye .
+Okay. Thank you very much. Thanks for sitting through it.
