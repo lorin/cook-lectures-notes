@@ -366,9 +366,7 @@ Is trying to get a handle on how people do this process so that they can build i
 
 But what is that the people who are working around Rasmussen and in that group, sometimes the including people on the fringes, but basically mostly people who are coming from the nuclear world, that group of people keeps working on this and gives rise to a whole nother set of people.
 
-For instance, Carl White and his sense-making
-
-Is a direct outflow of this experience. The fact that operators are trying to make sense of what is going on and failing in it is the fundamental. Trigger point for all of this stuff that follows afterwards, the management people, the sociologists, the business school people, they're all basically concerned with, how do we build plants?
+For instance, Karl Weick and his sense-making Is a direct outflow of this experience. The fact that operators are trying to make sense of what is going on and failing in it is the fundamental. Trigger point for all of this stuff that follows afterwards, the management people, the sociologists, the business school people, they're all basically concerned with, how do we build plants?
 
 How do we build environments that allow us to manage these kinds of risky, potentially very hazardous systems by ensuring that operators actually get them right. Understanding of what's going on when they're faced with some kind of breakdown or flaw. What Rasmussen does in skills, rules, and knowledge is set the sort of basic philosophical and engineering requirements for that world.
 
