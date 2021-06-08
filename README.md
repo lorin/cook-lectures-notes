@@ -2,7 +2,7 @@
 
 My personal, unofficial, incomplete notes based on watching Dr. Richard Cook's [lectures on the study of cognitive work](https://vimeo.com/showcase/6184024).
 
-THe seventh lecture is not in the collection, but it can be found on Vimeo at https://vimeo.com/95514812. It is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
+The seventh lecture is not in the collection, but it can be found on Vimeo at https://vimeo.com/95514812. It is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
 
 ## Terms
 
