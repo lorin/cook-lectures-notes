@@ -91,7 +91,7 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 TBD
 
-### Lecture 4: Process traciging, Texas City BP explosion
+### Lecture 4: Process tracing, Texas City BP explosion
 
 TBD
 
