@@ -89,7 +89,10 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
 
-TBD
+#### References
+
+* Y. Fujita, [Actualities Need to be Captured](https://link.springer.com/article/10.1007/PL00011505), Cognition, Technology & Work, Volume 2, Issue 4, November 2000
+* [Cognition, Technology & Work, Volume 2, Issue 4, November 2000](https://link.springer.com/journal/10111/volumes-and-issues/2-4). This is the special issue on the Tokaimura accident.
 
 ### Lecture 4: Process tracing, Texas City BP explosion
 
