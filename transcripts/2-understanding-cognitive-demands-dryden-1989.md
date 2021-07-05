@@ -2,7 +2,7 @@
 
 Welcome to seminar number two: understanding cognitive demands and the Dryden Air Ontario crash in March of 1989. The thing we should begin with first is questions that people have from previous session. Are there things that you want to talk about or concerns that you have or issues that have come up, things that you're now thinking about or things that you want to bring up for attention or discussion? (silence)
 
- Okay. That's very reassuring.  (laughter) 
+Okay. That's very reassuring. (laughter)
  
 You've had a chance at least to look at some of the materials here and get a handle on the range of things and the range of things in this collection of readings is quite large. It extends all the way from very theoretical bits of stuff that looked really complicated to very concrete things like checklists to as far North as Winnipeg , Manitoba and as far South as the Micronesian Islands. And so it's a kind of a global experience. And the goal of the seminars to put this all together in a way that makes some sense for you, and that gets you a step closer to thinking about cognitive tasks and the cognitive domain that you're trying to enter.
 
