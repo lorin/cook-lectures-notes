@@ -37,7 +37,7 @@ All links are to Wikipedia.
 
 All references are just my best guesses from the context of the videos.
 
-### Lecture 1: 
+### Lecture 1:  It all started at TMI, 1979
 
 Cognitive work studies around safety/human performance draw from Three Mile Island:
 * studies of people in simulators
