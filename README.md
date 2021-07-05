@@ -89,10 +89,36 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
 
+* fundamental surprise (impossible accident, black swan)
+* flexible, dynamic world of work
+* safety experts are good at post-hoc analysis, but can't predict where the next accident will happen
+* risks of doing cognitive task analysis:
+  - getting bogged down in the details of the domain
+  - going too narrow
+* best way to get inside a domain is to look at the cognitive artifacts
+* cognitive artifacts show the state of the world that matters to the operator
+* if operator is creating cognitive artifacts during high tempo activities, a researcher can use the cognitive artifact to identify what the operator identifies as most important to pay attention to in the moment
+* cognitive artifacts act as a map for researcher
+* distributed cognition: sharing cognitive artifacts
+  - shared representation of the world
+  - surfaces mismatches between different operators' understanding of the world
+* bootstrapping: 
+  - cognitive task analysis has to be done iteratively
+  - going back and forth between person's view of the world and what's actually going on in the world
+
+
+
 #### References
 
 * Y. Fujita, [Actualities Need to be Captured](https://link.springer.com/article/10.1007/PL00011505), Cognition, Technology & Work, Volume 2, Issue 4, November 2000
+* N. Meshkati & J. Deato, [Commentary on ‘Human Factor Analysis of JCO Criticality Accident’ by Furuta et al](https://link.springer.com/article/10.1007/PL00011510), Cognition, Technology & Work, Volume 2, Issue 4, November 2000
 * [Cognition, Technology & Work, Volume 2, Issue 4, November 2000](https://link.springer.com/journal/10111/volumes-and-issues/2-4). This is the special issue on the Tokaimura accident.
+
+* C.P. Nemeth, R.I. Cook & D.D. Woods, [The Messy Details: Insights from the Study of Technical Work in Healthcare](https://ieeexplore.ieee.org/document/1344116), IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, Volume: 34, Issue: 6, November 2004
+* C.P. Nemeth, R.I. Cook, M. O'Connor & P.A. Klock, [Using cognitive artifacts to understand distributed cognition](https://ieeexplore.ieee.org/document/1344121), IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, Volume: 34, Issue: 6, November 2004
+* Scott S. Potter,  Emilie M. Roth,  David D. Woods, & William C. Elm, [Bootstrapping Multiple Converging Cognitive Task Analysis Techniques for System Design](https://www.researchgate.net/publication/313737506_Bootstrapping_multiple_converging_cognitive_task_analysis_techniques_for_system_design), J.M.C., Chipman, S.F., & Shalin, V.L. (Eds.), Cognitive Task Analysis. Mahwah, NJ: Lawrence Erlbaum Associates, pp. 317-340.
+* [IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, Volume 34, Issue 6, November 2004](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=29597)
+
 
 ### Lecture 4: Process tracing, Texas City BP explosion
 
