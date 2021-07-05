@@ -39,6 +39,10 @@ All references are just my best guesses from the context of the videos.
 
 ### Lecture 1:  It all started at TMI, 1979
 
+* [video](https://vimeo.com/showcase/6184024/video/85909644)
+* [transcript](transcripts/1-it-all-started-at-tmi-1979.md)
+
+
 Cognitive work studies around safety/human performance draw from Three Mile Island:
 * studies of people in simulators
 * work studies
@@ -80,6 +84,10 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 2: Understanding cognitive demands & goal conflicts; Dryden Air Ontario Crash
 
+* [video](https://vimeo.com/showcase/6184024/video/86602403)
+* [transcript](transcripts/2-understanding-cognitive-demands-dryden-1989.md)
+
+
 * cognitive demands
 * goal conflicts
 
@@ -88,6 +96,9 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 * David Woods, Erik Hollnagel, [Mapping cognitive demands in complex problem-solving worlds](https://www.researchgate.net/publication/220108174_Mapping_Cognitive_Demands_in_Complex_Problem-Solving_Worlds), Intenational Journal of Man-Machine Studies, Volume 26, Issue 2, 1987, Pages 257-275.
 
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
+
+* [video](https://vimeo.com/showcase/6184024/video/87849921)
+* [transcript](transcripts/3-bootstrapping-artifacts-and-tokaimura-1999.md)
 
 * fundamental surprise (impossible accident, black swan)
 * flexible, dynamic world of work
