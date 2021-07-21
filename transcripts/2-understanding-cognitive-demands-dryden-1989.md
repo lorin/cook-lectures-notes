@@ -21,7 +21,6 @@ You've had a chance at least to look at some of the materials here and get a han
 
  The examples that they take, the language that they use, is a language basically, of control rooms and interfaces to the nuclear power plant.
 
-
 And who are then engaged in this complex process of trying to figure out:
 
 * What's wrong?
@@ -30,9 +29,7 @@ And who are then engaged in this complex process of trying to figure out:
 
 That is, what are the knobs or levers that I can grab and twist and pull to make something happen and a lot of stuff. What are. The pluses and minuses of doing X one X, two or so on and so forth. These guys are the basic model of what's happening here is that the plant people are engaged in some sort of process control.
 
-And that there's this complex and dangerous thing out here,
-
-but that it's really quite separate from them. And there's this control room set up displays and indicators and knobs and dials and all that sort of stuff. That's what they see that from about that indicate supplanted from this. They, we got to the idea last time that in order to answer these questions, what these guys really do is they develop some sort of mental model
+And that there's this complex and dangerous thing out here, but that it's really quite separate from them. And there's this control room set up displays and indicators and knobs and dials and all that sort of stuff. That's what they see that from about that indicate supplanted from this. They, we got to the idea last time that in order to answer these questions, what these guys really do is they develop some sort of mental model
 
 of what's happening and in their mental model,
 
