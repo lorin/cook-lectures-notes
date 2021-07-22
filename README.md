@@ -136,6 +136,8 @@ Most references are from the following two special issues:
 
 ### Lecture 4: Process tracing, Texas City BP explosion
 
+* [video](https://vimeo.com/showcase/6184024/video/89228540)
+
 
 #### References
 
