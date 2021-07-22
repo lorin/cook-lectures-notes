@@ -144,7 +144,7 @@ Most references are from the following two special issues:
 
 * Lisanne Bainbridge, [Verbal reports as evidence of the process operator's knowledge](https://doi.org/10.1016/S0020-7373(79)80035-8), International Journal of Man-Machine Studies, Volume 11, Issue 4, 1979, Pages 411-436
 * David Woods, [Process tracing methods for the study of cognition outside the experimental psychology laboratory](https://www.researchgate.net/publication/316655550_Process_tracing_methods_for_the_study_of_cognition_outside_the_experimental_psychology_laboratory), 1993. 
-* K. Anders Ericsson and Herbert A. Simon, [Protocol analysis: Verbal reports as data](https://doi.org/10.7551/mitpress/5657.001.0001), MIT Press, 1994.
+* K. Anders Ericsson and Herbert A. Simon, [Verbal reports as data](https://psycnet.apa.org/record/1980-24435-001), Psychological Review, 87(3), 1980, 215–251.
 
 ### Lecture 6: Stark, Vincennes, RPD, and NDM
 
