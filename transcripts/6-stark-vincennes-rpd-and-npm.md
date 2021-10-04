@@ -1,3 +1,5 @@
+# 6. Stark, Vincennes, RPD, and NDM
+
 [00:00:00] Welcome to seminar number six, which is mostly about RPD, NDM and two, actually three events related to the U.S. Navy, which is the stimulus for much of this work. 
 
 [00:00:14] Before we begin any questions from last time?
