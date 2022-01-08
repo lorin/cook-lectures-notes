@@ -154,7 +154,7 @@ Most references are from the following two special issues:
 
 ### Lecture 7: Jeffrey Braithwaite Looks at Safety
 
-TBD
+[video](https://vimeo.com/95514812)
 
 ### Lecture 8: Review
 
