@@ -158,4 +158,5 @@ TBD
 
 ### Lecture 8: Review
 
-TBD
+* [video](https://vimeo.com/showcase/6184024/video/96505935)
+* [transcript](transcripts/8-review.md)
