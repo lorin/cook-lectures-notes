@@ -172,33 +172,31 @@ It's not [00:30:00] straightforward, but the, remember that just about a year ea
 
 Especially if he's been calling and saying things and transplanting and all this sort of stuff. How does this happen? The answer is nobody really knows because one of the things that happens when you have this biggest screw up is that everybody starts lying and the Iranian sly, the Americans lie.
 
-The Iraqis apparently lie. Probably some Israelis lie in there someplace, but everybody's lying. Nobody's telling the truth. Nobody's being open about this. There are lots of investigations. There's a formal investigation by the Navy and by the evening, But all of this stuff gets censored and modified, it's, nobody's going to ever actually admit that anything went wrong.
+The Iraqis apparently lie. Probably some Israelis lie in there someplace, but everybody's lying. Nobody's telling the truth. Nobody's being open about this. There are lots of investigations. There's a formal investigation by the Navy. But all of this stuff gets censored and modified, nobody's going to ever actually admit that anything went wrong. In fact, it takes several years afterwards for it to become clear that the plane was rising, that it was not part of a coordinated attack, that it was [00:31:00] not, for instance, an Airbus with an F-14 right behind it, that was drafting along in its shadow so that it could drop down and shoot at the Americans.
 
-In fact, it takes several years afterwards for it to become clear that the plane was rising, that it was not part [00:31:00] of a coordinated attack, that it was not instance of an Airbus with an F 14 right behind it, that was cracking along and it's in its shadow so that it could drop down and shoot at the Americans.
+Wasn't anything like that. This is a plain old ordinary fuck-up. Okay, this is as bad as it gets. If you are an American Naval commander, but even worse. If you happen to be on board, this Arabian Airbus 300 is all those people die.
 
-Wasn't anything like that. This is a plain old ordinary buck up. Okay, this is as bad as it gets. If you are an American Naval commander, but even worse. If you happen to be on board, this Arabian Airbus 300 is all those people die.
+This was a very big event and no one even though no one has got the complete story and captures it all. This sequence of events is not lost on the people in the military and they are, they're really confronted with a problem. If you were an Admiral in the U.S. Navy, you've got this problem.
 
-This was a very big event and no one even though no one has got the company story and captures it all this sequence of events is not lost on the people in the military and they are, they're really confronted with a problem. If you were an Admiral in the U S Navy, you've got this problem on one hand and you don't shoot when you should have.
-
-And now on the other hand, you do shoot when you shouldn't have, and these things are happening just about a year apart. In the same setting at the same times, the same situation. So you're confronted with [00:32:00] this problem. You've got all this fancy technology. You've got all these devices that are supposed to help you conduct a war and you can't, you, you sometimes shooting down the wrong person and not shooting down the right one.
+On one hand, you don't shoot when you should have. And on the other hand, you do shoot when you shouldn't have. And these things are happening just about a year apart. In the same setting at the same times, the same situation. So you're confronted with this problem. You've got all this fancy technology. You've got [00:32:00] all these devices that are supposed to help you conduct a war and you can't, you, you sometimes shooting down the wrong person and not shooting down the right one.
 
 And part of it is because this is a very pressurized place. The fact that everybody is close together means things have to be decided very quickly. There's no time to sort out what's going on. It's not like you're a thousand miles away and you see them coming. This is a place where things happen very quickly because everything's close together.
 
 And because there is no longer this kind of. World war three scenario where you have the Russians and the Americans shooting at each other, but rather you've got the Iranians and the Iraqi shooting at each other. And you are standing off on the side trying to keep things from getting here. The oil tankers, it's a different mission.
 
-It's a completely different mission. Something for which none of the technology was designed. The technology was designed to shoot down just about everything out there. So the Navy began some work. [00:33:00] I'm trying to understand what was going on here. And this led to a couple of very interesting developments, which for our purposes are extremely useful.
+It's a completely different mission. Something for which none of the technology was designed. The technology was designed to shoot down just about everything out there. So the Navy began some work. I'm trying [00:33:00] to understand what was going on here. And this led to a couple of very interesting developments, which for our purposes are extremely useful.
 
 And the no what's useful about them is that if you have a situation where you do the opposite things in two different situations, and they're both wrong, you really have a problem on your hands. If. If you're going along and you just feel to shoot down things that you're supposed to shoot down, that's all it happens over and over again, you say, ah, our sensitivity threshold is set way too low.
 
 We need to become much more sensitive to what's going on so that when we see one of these things, we shoot it down. On the other hand, if you are constantly shooting down unarmed aircraft, No, your things that are non-combatants and you're destroying them. If you're doing that, you say gee, our sensitivity is way too low.
 
-We need to [00:34:00] raise wheat. Actually, I'm seeing it backwards. We need to make ourselves get our sensitivity levels, Justin, so that we're not triggering on a hair trigger all the time. These are the wrong things to shoot at, but that's not what's happening. What's happening here is you have a situation.
+We need to raise wheat. Actually, I'm seeing it [00:34:00] backwards. We need to make ourselves get our sensitivity levels, Justin, so that we're not triggering on a hair trigger all the time. These are the wrong things to shoot at, but that's not what's happening. What's happening here is you have a situation.
 
 Where you have a combination of things that is not a clear sensitivity problem. Instead, you have a situation where you shoot at and destroy something you feel in one way here, and then you shoot and don't shoot at and destroy something up here in a different sort of city. It's not straightforward. You can't fix this just by adjusting the layers to be more or less.
 
 To real problem. I It's a genuine problem. You want to be able to discriminate between things that are attackers and things that aren't, but you're not doing that reliably. And it's clear from this that the Navy understands that they have to start understanding something about how people make decisions.
 
-Really. There really is no substitute [00:35:00] for understanding the captain and the commanding officers in the. CIC and what their mental processes are. You have to know about this because these are the guys who somehow decided to do both of these things. And, admittedly, there are differences between the cases, but still you've got this big problem, which is how do people do this?
+Really. There really is no substitute for understanding the captain and the [00:35:00] commanding officers in the. CIC and what their mental processes are. You have to know about this because these are the guys who somehow decided to do both of these things. And, admittedly, there are differences between the cases, but still you've got this big problem, which is how do people do this?
 
 And so this generates, this becomes a kind of a three mile Island for the Navy.
 
@@ -206,21 +204,21 @@ no, I don't for the Navy. And
 
 they they try to steer their ship a little bit in the direction of doing some decision research.
 
-Yeah, there are two kinds of things that seem to come out of this, which are the two topics that we are interested [00:36:00] in. One is RPD and the other is indium. RPD is, was developed by your client. And really given its substance by Gary Klein and RPD stands for recognition,
+Yeah, there are two kinds of things that seem to come out of this, which are the two topics that we are interested in. One is RPD and the other [00:36:00] is indium. RPD is, was developed by your client. And really given its substance by Gary Klein and RPD stands for recognition,
 
 primed, decision making
 
 and
 
-RPD is a really big departure from the way in which decision making has been studied. Go back and look at that history. People have tried to figure out how folks make decisions for a very long time. But the modern study of decision-making is heavily influenced by a guy named DeGroote and DeGroote was a chess player and he studied just games[00:37:00] 
+RPD is a really big departure from the way in which decision making has been studied. Go back and look at that history. People have tried to figure out how folks make decisions for a very long time. But the modern study of decision-making is heavily influenced by a guy named DeGroote and DeGroote was a chess player and he studied just games
 
-and the grits, chess games studies were pretty interesting because. He found some features of experts that were different from the features of novices. What he did is he watched what people were doing and tried to figure out what the reasons for doing them more. But he ended up spawning some research that had some quite interesting results later on a guy named Simon.
+and the grits, chess [00:37:00] games studies were pretty interesting because. He found some features of experts that were different from the features of novices. What he did is he watched what people were doing and tried to figure out what the reasons for doing them more. But he ended up spawning some research that had some quite interesting results later on a guy named Simon.
 
 Remember Simon Nobel prize winner, and chase together did some experiments and they found some interesting things. If you show an expert, a chess board
 
 with some chess pieces on it,
 
-and then ask him from memory to reconstruct the chess board, he can do that pretty well. Experts are actually quite good at remembering patterns that they see in chess games and. Being able to copy those [00:38:00] patterns down later, you can show them the chess board, even for a very short period of time, just a few seconds.
+and then ask him from memory to reconstruct the chess board, he can do that pretty well. Experts are actually quite good at remembering patterns that they see in chess games and. Being able to copy those patterns down later, you can show them the chess board, [00:38:00] even for a very short period of time, just a few seconds.
 
 And they're able to remember, and then place the pieces on a chess board in the same way. What's it about? This is not that they have such good memories, but that their good memories are somehow conditioned on actually what can really happen. So if you have just positions that you get. In a game in a real game, a city setting that could actually happen.
 
@@ -228,105 +226,105 @@ This happens. It's a real position that you can get to the memory. Quality is re
 
 Their memory for the position is much worse.
 
-And this is a [00:39:00] pretty important finding because it means that what people are doing is not somehow photographing with their eyes, the world, and then reconstructing what they have a photograph of. But they are seeing in this some sets of relationships or meaningful patterns. That they then can call back and reproduce.
+And this is a pretty important finding [00:39:00] because it means that what people are doing is not somehow photographing with their eyes, the world, and then reconstructing what they have a photograph of. But they are seeing in this some sets of relationships or meaningful patterns. That they then can call back and reproduce.
 
 There's some intermediate stage. It's not like a camera. It's not a camera taking a picture. Okay. It's not this, what it is it's coming up with a memory for this pattern out of a stock of what must be many sets of such memories.
 
-And say, this is the one that I'm seeing here. So that later on, he can go back and do this reconstruction. And that's true because if you give them the random patterns, they cannot do it so well. So when you ask them to do what is the equivalent of taking a picture and remembering that, and then reconstructing, it they're [00:40:00] much worse at it.
+And say, this is the one that I'm seeing here. So that later on, he can go back and do this reconstruction. And that's true because if you give them the random patterns, they cannot do it so well. So when you ask them to do what is the equivalent of taking a picture and remembering that, and then reconstructing, it they're much worse at it.
 
-They're better than novices. They're better than people who don't play chess, but they're much worse at this than they are looking at the place at the things that you've been actually, can we get in a real game,
+They're better than novices. [00:40:00] They're better than people who don't play chess, but they're much worse at this than they are looking at the place at the things that you've been actually, can we get in a real game,
 
 the better the expert, the better they are at doing this task. And that's an incredibly important observation because what it says is that skill at chess. The ability to be, or we'll call it expertise. In this case, that expertise at chef
 
-has a lot to do with some kind of memory structure that is present in the person who's looking at the pattern that allows them to match what they see with a piece of memory that's already there in order to be able to recreate that thing later. That is what it says is that the that there's a process going on here that [00:41:00] somehow recognizes it recognizes,
+has a lot to do with some kind of memory structure that is present in the person who's looking at the pattern that allows them to match what they see with a piece of memory that's already there in order to be able to recreate that thing later. That is what it says is that the that there's a process going on here that somehow recognizes [00:41:00] it recognizes,
 
 this, recognizes this pattern. It goes through this memories thing and looks at these things and he comes up and says, ah, this is an us. We don't have any trouble with this. We recognize that we do this all the time. Our best direct recognition is there recognition for faces. It's built into us probably as a survival mechanism.
 
 So children can tell very early on when people are smiling or not smiling. They can recognize mom, as opposed to someone else. They know the difference between a stranger and someone they've seen before. These are probably survival traits. You probably needed this to get along, warm back when they were, when they're wooly mammoths around.
 
-But the point is that this is going on all the time. And rather than simply looking at something and making a picture of it, we're doing something active with the world. This active process is looking through our. Store of patterns and images and saying, [00:42:00] what is this like? And in a particular case of chest, DeGroot showed a degree to this old, this is from the 1960s.
+But the point is that this is going on all the time. And rather than simply looking at something and making a picture of it, we're doing something active with the world. This active process is looking through our. Store of patterns and images and saying, what is this like? [00:42:00] And in a particular case of chest, DeGroot showed a degree to this old, this is from the 1960s.
 
 He's right. This is a long, this is dark age of some cognitive terms because in the 1960s, everybody's at behaviorist. So from the 1960s, until the 1990s, everybody's in this behavioral STEM wheels response thing, This guy is asking, making inferences about what's happening in the heads of people.
 
 Now, you don't believe any of that. So he's out way off in left field. Nobody pays any attention to him until Simon and chase come along later on about 25 years later or so. And they start doing these experiments and they come up with this particular pattern. Now that isn't all that chess players do chess players.
 
-Once they have this pattern, then they have to do some sort of decision. They have to decide. What to move and how, okay. That's probably a different problem that is just remembering the position is not the same thing as making the next move, but clearly if you have a big [00:43:00] structure of it, he's in your head and you remember not only this at the F at move one, but the things that you got from move two and move three and so on and so forth.
+Once they have this pattern, then they have to do some sort of decision. They have to decide. What to move and how, okay. That's probably a different problem that is just remembering the position is not the same thing as making the next move, but clearly if you have a big structure of it, he's in your head and you [00:43:00] remember not only this at the F at move one, but the things that you got from move two and move three and so on and so forth.
 
 If you have number of sequences like this, it means that picking out the right way to proceed is pretty easy. And in fact, chess players do this all the time. They have openings that are named for specific chess players that are given these names, be both an attack and a defense that have names. And they're because they're from classic games and what a chess players do when they're trying to become skinny justice, they study old games.
 
 So somehow this process is going on, but it's critically dependent on this recognition. It's very interesting. I had a friend who was who was a a grand master. And when I would travel with him in the car, his son and I were friends and we would travel in the car. We would sit in the back seat with a chess board on our labs, each of us.
 
-And we would call out blues [00:44:00] to him and he would tell us what moves to make back without looking into games on painlessly. And he had no problem. And he beat us all the time. So here's what you get from this is that expertise realized not just on your ability to decide, but on your ability to recognize what's going on.
+And we would call out blues to him and he would tell us what moves to make [00:44:00] back without looking into games on painlessly. And he had no problem. And he beat us all the time. So here's what you get from this is that expertise realized not just on your ability to decide, but on your ability to recognize what's going on.
 
 Most of the decision research here that was going on was based upon some sort of BZ and concept of the world and whether or not the BZ and approaches is good or not. It depends a lot on calculations.
 
 That is you have to calculate the probability versus the value of different kinds of outcomes, and then comparing them, you can decide which one is the best choice and you make that best choice. What's interesting here though, is these guys didn't seem to be doing anything like that. They're not calculating anything.
 
-They're just remembering what some things look like, and they can go on to win chess matches on that basis so they can make decisions, but the [00:45:00] decisions are not made. So much by doing a calculation of a bunch of different things. It's by being experienced and prepared to respond to the situation that they face recognizing it and then going on from there.
+They're just remembering what some things look like, and they can go on to win chess matches on that basis so they can make decisions, but the decisions are not made. So much by [00:45:00] doing a calculation of a bunch of different things. It's by being experienced and prepared to respond to the situation that they face recognizing it and then going on from there.
 
 Yeah. And so client comes up with this idea about recognition primed. That is. You put it in there at the beginning, you prime it like you prime a wall with primer paint, or you prime a, an explosive charge with a detonator prime, meaning of the decision-making that there's two stages that there is this recognition thing that tells you what kind of situation you're facing.
 
 And then there's this process that tells you how to go about dealing with such a situation.
 
-Klein uses this kind of idea to start a whole set of studies in which he looks specifically at this problem, he goes, and he looks right directly at the problem of the [00:46:00] combat information center or CIC of an Aegis missile cruiser. And he goes right in there. He goes, it's hard to imagine because Gary Klein was the quietest, meekest, smallest, least military person you will ever meet in your life.
+Klein uses this kind of idea to start a whole set of studies in which he looks specifically at this problem, he goes, and he looks right directly at the problem of the combat information center or [00:46:00] CIC of an Aegis missile cruiser. And he goes right in there. He goes, it's hard to imagine because Gary Klein was the quietest, meekest, smallest, least military person you will ever meet in your life.
 
 And here he goes right into the CIC with these guys. To watch what they're doing and you can just, I, there are no pictures of him there, but I can just imagine in my mind he's a little kind of nice looking guy, a little goatee, very glasses, just completely non-military. And he's watching these guys do all these things in this combat information center, which is ready to launch missiles and all this sort of stuff, making little notes and talking to them about what they're doing, he actually does is he talks to these guys about what they're doing.
 
-And he comes up with a couple of interesting things. One is that nobody seems to calculate nobody's calculating where nobody's doing any kind of calculation or any computation that he can detect that [00:47:00] looks like any kind of evaluation of different alternatives based upon their likelihood or outcome.
+And he comes up with a couple of interesting things. One is that nobody seems to calculate nobody's calculating where nobody's doing any kind of calculation or any computation that he can detect that looks like any kind of evaluation [00:47:00] of different alternatives based upon their likelihood or outcome.
 
 So this utility theory, the Bayesean stuff. And by the way, people have been trying to get humans to do this for a long time. They want you to be based on the fact that you do not seem to be based in is obviously a mistake. You're doing things the wrong way, because this is clearly the best way, but he doesn't find that he doesn't see anybody doing anything like that.
 
 He's got to drop that fairly quickly, these guys, or whatever they're doing, they're not doing Bayesean calculations. The other thing is that they are not, they're not looking for. The one best way they don't seem to contract Aston, compare lots of alternatives. Instead, what they do is they seem to take from experience.
 
-What it seems that deals with the problem that they face that as they take their recognition. And based upon that, they look at a very limited number of alternatives [00:48:00] until they find something that seems to get them where they want to be. And they simply do it. They don't fuck around. They don't. They don't have an HOD.
+What it seems that deals with the problem that they face that as they take their recognition. And based upon that, they look at a very limited number of alternatives until they find something that seems to get [00:48:00] them where they want to be. And they simply do it. They don't fuck around. They don't. They don't have an HOD.
 
 They don't get out calculators. They look situation. They say, we're going to do this. And the place that client discovers this most clearly is on fire ground commanders. That is the guys who are standing outside the burning building and directing people to do things, to try and control the fire or get out of the fire.
 
 And he recognizes that they're not calculating and they're not, they don't look for the best solution. They look for a solution that will work in the situation that they're facing. Later on Rasmussen.
 
-We'll look at nurses and physicians working in an intensive care unit and conclude that rather than making decisions in a busy and way, they seem very much to be launching activities and then keeping [00:49:00] track of things to see it. Things are playing out the way they expected that is they're not so much trying to do a whole new decision each time as they are saying, they're getting something started.
+We'll look at nurses and physicians working in an intensive care unit and conclude that rather than making decisions in a busy and way, they seem very much to be launching activities and then keeping track of things to see it. Things are playing [00:49:00] out the way they expected that is they're not so much trying to do a whole new decision each time as they are saying, they're getting something started.
 
 And then they go back to check to see if things are progressing in the way that they expected. And if not, then they have to wait. We update themselves. But Rasmussen, remember he said it all right. It was a little later than client, but he still said it. The consequences of this are disturbing because for people who believe that there's lots and lots of choices, this seems to be, by absolute dead winners and all the economic theories and all the residents of Basie and calculation seems to be number one.
 
-And if you're not doing it somehow, you must be failing. And client to his credit does not say this is the way people should do it. He's saying, look, when I study people working in the real world with hard problems, this is what they do. And he points out that they do this in part because there's time pressure.[00:50:00] 
+And if you're not doing it somehow, you must be failing. And client to his credit does not say this is the way people should do it. He's saying, look, when I study people working in the real world with hard problems, this is what they do. And he points out that they do this in part because there's time pressure.
 
-And later people go on to identify some other features of this imperfect information
+And later people go on [00:50:00] to identify some other features of this imperfect information
 
 and an evolving situation.
 
 That is, it's not the case that the Basian guys have where you know everything about the world. You put it all into some big computer and computer, the best choice of action. In fact, what you do is you go into a situation where you have to decide things pretty quickly, or you're going to lose the opportunity to do but the information that you're getting is not always true or complete or accurate. In fact, lots of it is missing or inaccurate. It's hard to tell. And finally it isn't going to stay the same. The situation can change. It can become more or less threatening things can change in there so that you can't simply decide and turn around and walk away.
 
-You can't walk in the firefighter. So you guys do this, you guys do that and see that I'm getting in my car and going home. You have to [00:51:00] stay there to continue to be involved with this. And naturalistic decision-making MDM
+You can't walk in the firefighter. So you guys do this, you guys do that and see that I'm getting in my car and going home. You have to stay there to continue to be involved [00:51:00] with this. And naturalistic decision-making MDM
 
 takes on this collection of stuff and turns it into an understanding. It's not a science, it's not even really a theory. What it is it's a set of empirical observations about how people do things in the real world. And given that they do these things, trying to explain why that might be a reasonable thing to do.
 
 If you connect this stuff up together, you begin to get a sense of ways in which things could misfire. Okay. And one of the things would be if your expertise is not well calibrated for the position, that situation that you're confronted with. So if, for instance, you take chess experts and you give them non chess problems, they do about as good as average people do.
 
-All right. They're [00:52:00] not geniuses at solving problems. They're geniuses at chess. So one of the key factors is the expertise that you have suitable to the problem that you face. And you all know this to be true. You can be an expert at something and have another problem, another client next door.
+All right. They're not geniuses at solving problems. They're [00:52:00] geniuses at chess. So one of the key factors is the expertise that you have suitable to the problem that you face. And you all know this to be true. You can be an expert at something and have another problem, another client next door.
 
 And you look at this and you go, wow, that I don't know what that is. I don't know what to do. Although there may be some benefit in general problem-solving skills and people talk about developing what they call problem, ice and worse. That is a basic problem that you solve. And once you've done that, you can apply that to many different situations that probably has very little to do with real expertise.
 
-Teaching people, problem solving strategies is probably not a very good thing in and of itself. Now the opposite of this is giving people lots of experience with actual problems in their real world probably does help. That's clearly what chess people are doing when they're reading through these games and studying the [00:53:00] moves.
+Teaching people, problem solving strategies is probably not a very good thing in and of itself. Now the opposite of this is giving people lots of experience with actual problems in their real world probably does help. That's clearly what chess people are doing when they're reading through these games and studying the moves.
 
-But to say, I'm going to teach you how to assemble the list of alternatives and to do differential diagnosis by getting rid of all these things. This is probably not all that useful house on TV is very good on TV. House is not so good in the real world. Okay. It's a nice idea. And it fits with many peoples, interestingly enough, it fits with many people's own judgment about what their expertise is that as you could ask doctors and they say, Oh, I do it just like house.
+But to say, I'm going to teach you [00:53:00] how to assemble the list of alternatives and to do differential diagnosis by getting rid of all these things. This is probably not all that useful house on TV is very good on TV. House is not so good in the real world. Okay. It's a nice idea. And it fits with many peoples, interestingly enough, it fits with many people's own judgment about what their expertise is that as you could ask doctors and they say, Oh, I do it just like house.
 
 When in fact they do not. So one of the things that's really critical here is the expertise. But the other thing that you see is that. If you, if that expertise is somehow going to be mostly down here, those are the decisions, but it's all primed by this recognition stuff over with you have little control.
 
-That is you. Don't say when you look at the chess board, let me quickly go through my mind and see if this is one of these or that you [00:54:00] just look at it and you recognize it just the same way. If I say to you, how is it that you can recognize the face of. Richard Milhous Nixon, you would say he's got these features dah, but the recognition occurs actually before you pick up those features.
+That is you. Don't say when you look at the chess board, let me quickly go through my mind and see if this is one of these or that you just look at it and you recognize it [00:54:00] just the same way. If I say to you, how is it that you can recognize the face of. Richard Milhous Nixon, you would say he's got these features dah, but the recognition occurs actually before you pick up those features.
 
 And so recognition is something that's very important because it sets up the limited number of possibilities here, such that if you get it wrong, you could, they end up having a decision, which although correct for the problem that you thought you were having. That is what you recognized is incorrect for the situation you face.
 
 And that's exactly what happened here. In the one case the captain of the stark was facing an actual attack. Did not understand that or recognize that as an attack failed to think about that in that way, failed to defend the ship and the ship was damaged. And in the case of the incense, the captain is faced with what is not an attack, but sees an attack.
 
-He [00:55:00] sees what he is, what he recognizes in the data that he is facing. Is an attack and he responds, he doesn't make an error indecision as so much as he makes an error in recognition. Admittedly, this is not a really clear distinction, but the important thing here is that we have much less control over these sorts of processes than we would these and keeping this in mind is one of the reasons why you have to be so careful if you think about it, this becomes a whole bunch of stuff related to human factors, right?
+He sees what he is, what he [00:55:00] recognizes in the data that he is facing. Is an attack and he responds, he doesn't make an error indecision as so much as he makes an error in recognition. Admittedly, this is not a really clear distinction, but the important thing here is that we have much less control over these sorts of processes than we would these and keeping this in mind is one of the reasons why you have to be so careful if you think about it, this becomes a whole bunch of stuff related to human factors, right?
 
-You could understand that the way in which you display a problem, how you show it to people would have a huge impact on their ability to recognize it as a particular case and therefore get the right decision. And interestingly enough, the combat information center was not designed for use of literal waters, where you have both friend and full flight floating around each other and all these different tracks, their screens look like air traffic control [00:56:00] screens, not like a screen.
+You could understand that the way in which you display a problem, how you show it to people would have a huge impact on their ability to recognize it as a particular case and therefore get the right decision. And interestingly enough, the combat information center was not designed for use of literal waters, where you have both friend and full flight floating around each other and all these different tracks, their screens look like air traffic control screens, not like a screen.
 
-So a battle going on. The F the system was not really configured for that. It was configured for world war three, Russians versus the Americans. So in a way, this event with the vivid sense and the stark in reaction to it began to tell us that human factors really makes a big difference. How you present problems really makes a big difference.
+So a battle going [00:56:00] on. The F the system was not really configured for that. It was configured for world war three, Russians versus the Americans. So in a way, this event with the vivid sense and the stark in reaction to it began to tell us that human factors really makes a big difference. How you present problems really makes a big difference.
 
 It is also true that it is not just an image that matters. It's an understanding of how you get to that image, because one of the things that is different than the chess world is that the world over here is really rich in information. There's lots of data that you could choose to look at. It's rich and filled with lots of information.
 
-And so the question is which information matters? What should you pay attention to? What should you ignore? It's not like a chess board where everything about the world is contained in 64 squares. And the [00:57:00] consequence of this is that people have developed techniques for getting through this data and understanding what's going on.
+And so the question is which information matters? What should you pay attention to? What should you ignore? It's not like a chess board where everything about the world is contained in 64 squares. And the consequence of this is that [00:57:00] people have developed techniques for getting through this data and understanding what's going on.
 
 And this is something that client observes when he's in the Aegis cruiser looking at people and that he writes about that. But it's a little bit obscured because so much of the other stuff is so controversial. But one of the things that he comes up with in this is this idea that you can have a situation, have a a kind of a condition that these guys call having.
 
@@ -338,55 +336,55 @@ What is having the bowl. Nobody really knows, but it's clear that it's a differe
 
 The disposition that is the location nature and probable futures.
 
-Of all of the different dots that are on the radar display, basically having the bubble means that, what's happening in this world and you can relate to all of the different factors that are being presented on there and [00:59:00] understand you're in some sense, aware, or you have appreciation of all the different things out there and where they are and what they're doing and what they're likely to do in the future.
+Of all of the different dots that are on the radar display, basically having the bubble means that, what's happening in this world and you can relate to all of the different factors that are being presented on there and understand you're in some sense, [00:59:00] aware, or you have appreciation of all the different things out there and where they are and what they're doing and what they're likely to do in the future.
 
 That is you've accounted for all the different tracks on the display. Everything that could be a threat, everything that could be a friendly force, everything that could be a hazard to navigation that you know about that space. And you understand the relationships between all those things. And when you do that, yeah, you have got the bubble.
 
 Okay. And the idea of this is an interesting one because of the idea of a bubble of something frat fragile. And, temporary and so forth because once you have the bubble, you have to work to maintain it. So you must continue to look at the displays and track the movements of different things.
 
-Understand what's going on. Look at the forces that are changing. You cannot simply have the bubble, you have to work to maintain it. And so you have to keep this, you have to have the boat means continuous sort of [01:00:00] cognitive work, applied to the situation to understand what's going on. And interestingly enough, it's the one there's always at least one officer in the CIC who has the bubble.
+Understand what's going on. Look at the forces that are changing. You cannot simply have the bubble, you have to work to maintain it. And so you have to keep this, you have to have the boat means continuous sort of cognitive work, applied to the [01:00:00] situation to understand what's going on. And interestingly enough, it's the one there's always at least one officer in the CIC who has the bubble.
 
 And that person is identified as the person who's in charge. And that person is supposed to, if they lose the bubble, announced that they have lost the bubble. That is, they no longer know what all these things are and they're supposed to get a lot of help. Then I'm putting that situation back.
 
 No. They clearly do not have the bubble all the time. And they clearly do not always announce when they don't have the bubble, but sometimes it doesn't matter. And sometimes it does. Interestingly enough, this is not only true. No training situations with their radar, but it's also true of air traffic control.
 
-The classic model here is air traffic control, where they're looking at all the planes, traveling through their airspace, trying to keep track of when they're going to intersect, what's going to happen. [01:01:00] And these guys also will describe a situation where they know what's going on. Although they don't use the term having the bubble, they've got an analogous situation, which is understanding what's going on and we have together luck, this whole thing.
+The classic model here is air traffic control, where they're looking at all the planes, traveling through their airspace, trying to keep track of when they're going to intersect, what's going to happen. And these guys also will [01:01:00] describe a situation where they know what's going on. Although they don't use the term having the bubble, they've got an analogous situation, which is understanding what's going on and we have together luck, this whole thing.
 
 Into a term that we call situation awareness.
 
 This is what this term gets a lot of use by woods and Sartor and a bunch of other people, Micah Ensley, and some other folks. But the point is that what they're talking about is what you get as a result of doing all this work. Recognizing things and then understanding what their applications are that gives you a situation awareness.
 
-And the thing that's important about situation awareness is that you can lose it. You can get misconnected or distance from the situation in ways that you forget that's actually the relationships and that happens. It happens there. It happens [01:02:00] here and it happens to us in our everyday life.
+And the thing that's important about situation awareness is that you can lose it. You can get misconnected or distance from the situation in ways that you forget that's actually the relationships and that happens. It happens there. It happens here and it happens to us in our [01:02:00] everyday life.
 
 It just doesn't matter very much for us because we don't have any devices that are command that can shoot down aircraft. So the fact that you don't have situation awareness at nine 30 at night, doesn't mean very much because you're sitting in front of your television, eating popcorn. The lack of situation awareness is not a threat to anyone, but it is a threat.
 
 If you lose, for instance, if you're driving in crowded traffic and you lose sight of what the traffic is, or if you're managing multiple patients in an ICU, You lose sight of which patient has got the cheating going on, or if you're in the operation operating room and you're working in some complex operation and you lose sight of what is the relationships are between the different structures that you're manipulating it's on.
 
-So this has become quite a big part of understanding what it is that people are doing. People will talk about situational awareness. And let me tell you that they say people talk a lot about situation awareness. They do very little meaningful research on. [01:03:00] Everybody writes about it, talks about it, explains it, trains.
+So this has become quite a big part of understanding what it is that people are doing. People will talk about situational awareness. And let me tell you that they say people talk a lot about situation awareness. They do very little meaningful research on. Everybody writes about it, talks about it, explains it, [01:03:00] trains.
 
 It does all the rest of that stuff. In terms of understanding it, there's almost nothing out there. It's really quite remarkable what they're little, but the point is that everybody realizes that this is really critical to understanding that this situation and this situation are two completely different situations and they require different kinds of responses.
 
 Okay. And to do this, somehow you have to do all this stuff, which means that you have to go back through all of this process and get that, is that right?
 
-This naturalistic decision-making stuff, NDM has become almost an industry because it has grown like crazy. And the reason it's grown like crazy is because the people who are doing this stuff have got no way to make it work. That is doing BZ and calculation. Sounds great. Afterwards, when you've got all the information, you could sit there and calculate what people should have done.[01:04:00] 
+This naturalistic decision-making stuff, NDM has become almost an industry because it has grown like crazy. And the reason it's grown like crazy is because the people who are doing this stuff have got no way to make it work. That is doing BZ and calculation. Sounds great. Afterwards, when you've got all the information, you could sit there and calculate what people should have done.
 
-It doesn't help people at all when they're trying to deal with things. In fact, this NDM thing is all about really world situations, real settings, it's fire commanders, it's forest firefighters. It's a battlefield activities. It's police and riots. It's a whole bunch of stuff like that. Those are all situations where you're going to be faced with time, pressure of imperfect information, evolving situations, and you're going to need to act.
+It doesn't help people at all when they're [01:04:00] trying to deal with things. In fact, this NDM thing is all about really world situations, real settings, it's fire commanders, it's forest firefighters. It's a battlefield activities. It's police and riots. It's a whole bunch of stuff like that. Those are all situations where you're going to be faced with time, pressure of imperfect information, evolving situations, and you're going to need to act.
 
 And what people want to do is help folks deal with these situations. It's wonderful to imagine you weren't. It would be great to say I'm going to assume that we know everything that there is to know we can spend as long as there's one calculating it. That's fine. You go be an economist. Okay. That's what they do.
 
-They just assume you can't assume it. Yeah. Yeah. These things, if you're one of the people who's working here in the CIC, You, this is a very real problem. It has very real consequences. And so the study of MDM has become a kind of an industry with people looking at lots and lots of situations, and [01:05:00] essentially finding very much the same story over and trying to figure out ways to help people develop either more expertise at doing these things or building other kinds of ways to help aid their processes of recognition.
+They just assume you can't assume it. Yeah. Yeah. These things, if you're one of the people who's working here in the CIC, You, this is a very real problem. It has very real consequences. And so the study of MDM has become a kind of an industry with people looking at lots and lots of situations, and essentially finding very much the same story [01:05:00] over and trying to figure out ways to help people develop either more expertise at doing these things or building other kinds of ways to help aid their processes of recognition.
 
 Now, this brings up just one little last point before we close. This brings up a kind of an interesting problem, which is
 
 you're used to thinking about human information processing and decision-making as a very fragile and easy to easy to mislead process, we tend to think of. People who are thinking about things is making lots of errors, making lots of stuff. And the way that people will do this for you is they will show you various kinds of visual illusions.
 
-They will show you something, right? I like this. Let's see here, I'll show you the drawing. It looks like this and. Then they will say, I can do these is [01:06:00] the lines parallel, or they did diverging or the parallel of divergent or something like that. And there are a bunch of optical kinds of illusions that you can create where people will routinely give you the wrong answer, which people take as evidence that this recognition process is flawed in some way that it doesn't work very well.
+They will show you something, right? I like this. Let's see here, I'll show you the drawing. It looks like this and. Then they will say, I can do these is the lines parallel, or they did diverging or [01:06:00] the parallel of divergent or something like that. And there are a bunch of optical kinds of illusions that you can create where people will routinely give you the wrong answer, which people take as evidence that this recognition process is flawed in some way that it doesn't work very well.
 
 Look how easily I can fool you. Okay. I can trick you with, by drawing something and then asking you an analytical question about it and you will get the answer wrong. Gosh, your recognition process. Isn't very robust. You're not a very good recognizer and therefore you must not be a very good decision maker.
 
 You'll make the wrong decision, or they will talk about what we call heuristics
 
-and biases. These are rules of thumb that we use to figure out how to deal with the fact that we don't have enough information active aside or getting that information is going to be hard. And they'll say, Oh, look, your mystics are rules that don't work all the time. That's a rule [01:07:00] of thumb and rule of thumbs don't work in every case, which is absolutely true.
+and biases. These are rules of thumb that we use to figure out how to deal with the fact that we don't have enough information active aside or getting that information is going to be hard. And they'll say, Oh, look, your mystics are rules that don't work all the time. That's a rule of thumb and rule of thumbs don't work in every case, which [01:07:00] is absolutely true.
 
 However, rules of thumb work in most of the cases that we encountered. That's why we have lives. We don't build our rules of thumb by having. The experience over and over that it never works. If you have a rule of thumb that never works, you don't, it's not a rule of thumb. So it turns out that heuristics actually are very valuable things because they allow us to do calculations.
 
@@ -394,29 +392,29 @@ What is it amounts to a whole bunch of calculation work very quickly. By using a
 
 And admittedly, you can demonstrate those things in the psychology laboratory, but it's a lot harder to show that these things are sources of lots of bad decisions in the real world. And the reason is because most of the decisions in the real world are done well. Most of the time you don't do this. And this there's lots of other cases where you're doing the right.
 
-We tend to take [01:08:00] our laboratory demonstrations of the ways in which human cognition can be flawed and assume that it means that human cognition is deficient. Look, I can develop all these optical illusions and you'll get it wrong every time and I can test it on hundreds of different people and they'll get it wrong every time.
+We tend to take our laboratory demonstrations of the [01:08:00] ways in which human cognition can be flawed and assume that it means that human cognition is deficient. Look, I can develop all these optical illusions and you'll get it wrong every time and I can test it on hundreds of different people and they'll get it wrong every time.
 
 A good example is something called a water glass experiment. The water glass experiment and the water glass experiment. I draw a glass like this and I make a point here. See, this is the water level in the glass. And I asked you to draw a line, which shows the water in the glass. I see it's touching this point, draw me the line.
 
-And people almost always draw a line that goes like this. Now, the true. Static picture would be like this, but people draw a line it's inclined in some way. Okay. So somebody did an experiment once it's, this is a robust finding. You'll find this over and over. When you test me, somebody said this expertise thing should [01:09:00] play a role.
+And people almost always draw a line that goes like this. Now, the true. Static picture would be like this, but people draw a line it's inclined in some way. Okay. So somebody did an experiment once it's, this is a robust finding. You'll find this over and over. When you test me, somebody said this expertise thing should play a role.
 
-We were really testing people about abstract ideas, but what if we tested people who are supposed to know something about water in glasses? So they did an experiment where they separated out two groups of people. One group of people was taxi drivers
+We were really [01:09:00] testing people about abstract ideas, but what if we tested people who are supposed to know something about water in glasses? So they did an experiment where they separated out two groups of people. One group of people was taxi drivers
 
 and the other people was bar waiters and waitresses.
 
 The taxi drivers are the control group. There's nothing particular that they have no expertise at handling water in glasses. But bartenders bar waitress has, but these are people who have to carry drinks around. They should get this right. Right there, if you're saying, look, lots of experience makes you good at particular tasks, the problem with this doing this thing was they don't have the experience and therefore they get it wrong, their knife.
 
-But if you take these people, these are supposedly experts. These are ex. These are experts. [01:10:00] They should get like this, they should do this. Whereas our taxi drivers should do the other. And they do the test. And what do you see? Of course
+But if you take these people, these are supposedly experts. These are ex. These are experts. They should get like [01:10:00] this, they should do this. Whereas our taxi drivers should do the other. And they do the test. And what do you see? Of course
 
 they both do this. And so this experiment, when it was done, Is becomes the famous test of the water glass experiment and a test of expertise in the warrior Lindsey. And the art argument that they make is, look, these guys are experts. These are not, they both get tripped up the same way by the optical illusion or this, the construction of this task.
 
-Therefore expertise is not the key. They published this paper. So one of the people who writes in a letter about this paper is a physicist, not a psychologist. And the physicist writes in and he says, he says, if you think about it, this is a very unusual person position for a glass to be in. This is not the way in which we normally would [01:11:00] have a glass.
+Therefore expertise is not the key. They published this paper. So one of the people who writes in a letter about this paper is a physicist, not a psychologist. And the physicist writes in and he says, he says, if you think about it, this is a very unusual person position for a glass to be in. This is not the way in which we normally would have a glass.
 
-We would normally have a glass like this. And if you draw the glass this way, people draw the line this way they do. But in this way, all the glass people do this thing here, you said you don't it's. If you watch what waiters and waitresses do, you'll realize that they actually do a fairly sophisticated amount of physics.
+We would normally have a glass like this. [01:11:00] And if you draw the glass this way, people draw the line this way they do. But in this way, all the glass people do this thing here, you said you don't it's. If you watch what waiters and waitresses do, you'll realize that they actually do a fairly sophisticated amount of physics.
 
 What they do is they take a platter, holding a bunch of drinks with fluid levels in them, and then they move that to say some other place, which means that this, the fluids all undergo an acceleration. You stop and then you start, that's an acceleration. And when you accelerate something, it resists and wants to move back.
 
-So when you accelerate, what will happen is that the levels in these glasses will go like this. Okay. And so if you [01:12:00] watch waiters and waitresses, as they begin to move, they will tilt the platter slightly like this to raise the angle.
+So when you accelerate, what will happen is that the levels in these glasses will go like this. Okay. And so if you watch waiters and waitresses, as they begin [01:12:00] to move, they will tilt the platter slightly like this to raise the angle.
 
 so that the fluid in the glasses
 
@@ -424,21 +422,21 @@ stays level. And when they get to the other end and stop, they will do the perve
 
 What does shows I think is that. Although you can develop these little kinds of laboratory experiments to show that human cognition is not very good when you actually look at human performance in the real world. Excellent. Especially in experts. Okay. And the problem that we have is not that experts are easily fooled.
 
-It's that our experiments that we do in the laboratory, don't actually look at what the constitution of real expertise is. It's not a [01:13:00] fault. Of the experts that they can't solve this problem, no one can solve this problem. No one has this problem. Therefore, it's not a real problem. And nobody deals with non real problems.
+It's that our experiments that we do in the laboratory, don't actually look at what the constitution of real expertise is. It's not a fault. Of the experts that they can't solve this [01:13:00] problem, no one can solve this problem. No one has this problem. Therefore, it's not a real problem. And nobody deals with non real problems.
 
 It's hard to have expertise, not real problems, but if you want watch people who do this, they actually manage the task extremely well, even though they may not be able to tell you very much. And most of the things that we set up. That are examples of optical illusions, or little tricks that demonstrate that people have biases or are subject to problems with heuristics are just that they're little tricks.
 
-They are examples derived for laboratory purposes that say almost nothing about the real world. And indeed, this is the problem that has made MDM so valuable. The fact that. It's talking about the real world as it is taking real-world situations and studying them there and accepting that what's going on is not just another version of some funny [01:14:00] laboratory tasks, but something else that needs to be explored and understood in its own environment, in its own setting in situ, rather than in ex-vivo kind of setting.
+They are examples derived for laboratory purposes that say almost nothing about the real world. And indeed, this is the problem that has made MDM so valuable. The fact that. It's talking about the real world as it is taking real-world situations and studying them there and accepting that what's going on is not just another version of some funny laboratory tasks, but [01:14:00] something else that needs to be explored and understood in its own environment, in its own setting in situ, rather than in ex-vivo kind of setting.
 
 And that's why MDM has become the along with RPD have become the sort of. Predominant understanding that we use when we are doing research in the world, we don't ask people how they do calculations because we don't believe that they do. We don't ask people to tell us much about their recognition because they can't tell us about recognition very well.
 
 We offer them examples of problems and we ask them to do recognition on those. So we look for features that make recognition possible. And we under, we look at ways in which they are able to keep their situation awareness tuned up so that they know what's going on in the world. Things that can make it hard to sustain situation awareness of things that are likely to cause problems in the real world.
 
-But the thing that comes from studying things in this naturalistic decision, why is his [01:15:00] much greater appreciation for how complex and subtle expertise in the real world really is? The captains of these two shifts were in situations, which were almost impossible to you. Yeah. They'd been put at such a disadvantage by the planning of these weapons systems for use in a different setting by this combination of trying to sort out for an, for when all the rest of the things that it was really quite a difficult task.
+But the thing that comes from studying things in this naturalistic decision, why is his much greater appreciation [01:15:00] for how complex and subtle expertise in the real world really is? The captains of these two shifts were in situations, which were almost impossible to you. Yeah. They'd been put at such a disadvantage by the planning of these weapons systems for use in a different setting by this combination of trying to sort out for an, for when all the rest of the things that it was really quite a difficult task.
 
 And we should not be surprised if sometimes it goes wrong. But what we actually get from this, when we study it is how sophisticated these activities are and how much people are aware of the need to be able to understand what's going on. They actually work to create this and people who work in the ICU, people who work in the emergency room, people who work in flight decks and other places when they come on shift.
 
-Take some time to get up to speed, knowing what's going on. When they take over a case in the operating room, they don't start out having the bubble, but they eventually get [01:16:00] it. We're all practitioners understand this as part of their world. They don't have a good vocabulary for it. And that's what a climate and the others have really drawn us to.
+Take some time to get up to speed, knowing what's going on. When they take over a case in the operating room, they don't start out having the bubble, but they eventually get it. We're all practitioners [01:16:00] understand this as part of their world. They don't have a good vocabulary for it. And that's what a climate and the others have really drawn us to.
 
 We now can talk about what's actually going on. No questions.
 
