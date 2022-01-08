@@ -149,7 +149,8 @@ Most references are from the following two special issues:
 
 ### Lecture 6: Stark, Vincennes, RPD, and NDM
 
-TBD
+* [video](https://vimeo.com/showcase/6184024/video/89228540)
+* [transcript](transcripts/6-stark-vincennes-rpd-and-npm.md)
 
 ### Lecture 7: Jeffrey Braithwaite Looks at Safety
 
