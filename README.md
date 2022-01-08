@@ -54,7 +54,7 @@ Joke in human factors: Until 1979, there were only two kinds of subjects that go
 2. Someone didn't die who should have. (weapons system failure)
 
 Researchers who studied Three Mile Island:
-* Jens Rasmussen 
+* Jens Rasmussen
 * Morten Lind
 * David Woods
 * John Senders
@@ -114,7 +114,7 @@ Notes
 * distributed cognition: sharing cognitive artifacts
   - shared representation of the world
   - surfaces mismatches between different operators' understanding of the world
-* bootstrapping: 
+* bootstrapping:
   - cognitive task analysis has to be done iteratively
   - going back and forth between person's view of the world and what's actually going on in the world
 
@@ -137,13 +137,14 @@ Most references are from the following two special issues:
 ### Lecture 4: Process tracing, Texas City BP explosion
 
 * [video](https://vimeo.com/showcase/6184024/video/89228540)
+* [transcript](transcripts/4-process-tracing-texas-city-bp-explosion.md)
 
 
 #### References
 
 
 * Lisanne Bainbridge, [Verbal reports as evidence of the process operator's knowledge](https://doi.org/10.1016/S0020-7373(79)80035-8), International Journal of Man-Machine Studies, Volume 11, Issue 4, 1979, Pages 411-436
-* David Woods, [Process tracing methods for the study of cognition outside the experimental psychology laboratory](https://www.researchgate.net/publication/316655550_Process_tracing_methods_for_the_study_of_cognition_outside_the_experimental_psychology_laboratory), 1993. 
+* David Woods, [Process tracing methods for the study of cognition outside the experimental psychology laboratory](https://www.researchgate.net/publication/316655550_Process_tracing_methods_for_the_study_of_cognition_outside_the_experimental_psychology_laboratory), 1993.
 * K. Anders Ericsson and Herbert A. Simon, [Verbal reports as data](https://psycnet.apa.org/record/1980-24435-001), Psychological Review, 87(3), 1980, 215–251.
 
 ### Lecture 6: Stark, Vincennes, RPD, and NDM
