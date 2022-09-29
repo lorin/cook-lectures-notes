@@ -91,6 +91,7 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 ### References
 
 * David Woods, Erik Hollnagel, [Mapping cognitive demands in complex problem-solving worlds](https://www.researchgate.net/publication/220108174_Mapping_Cognitive_Demands_in_Complex_Problem-Solving_Worlds), Intenational Journal of Man-Machine Studies, Volume 26, Issue 2, 1987, Pages 257-275.
+* Johnson Kochevar, Laura K. Kochevar, Paul E. Johnson, [Problem Solving is What You Do When You Don't Know What to Do](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315807812-88/problem-solving-know-johnson-kochevar-laura-kochevar-paul-johnson), Proceedings of the Tenth Annual Conference of the Cognitive Science Society, 1988.
 
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
 
