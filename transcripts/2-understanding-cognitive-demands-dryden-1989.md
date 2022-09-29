@@ -270,9 +270,11 @@ And anybody who works in the healthcare field knows exactly what disturbance man
 
 When you start, when you are doing chest compressions, this is disturbance management. You've given up all the other diagnostic activities. And you've said, my primary goal right now is to keep the little red things going round and round so that the big white thing up here continues to get enough oxygen that peoples, that's all you're saying.
 
-You're not saying I know what the problem is. I can fix this though. Does it? This was this disturbance management is where you shift in this big way, a shift of activities that the people are doing from being in this. I'm trying to figure out what goes on the diagnostic. What is happening here?
+You're not saying I know what the problem is. I can fix this... da da da. Disturbance management is where you shift in this big way, a shift of activities that the people are doing. From being in this "I'm trying to figure out what goes on... the diagnostic... What is happening here? How does this work what's happening?" To: "I am trying to keep the system from essentially crashing or dying, or just ending up in a disastrous way, because if I don't do this, it won't matter. I'm not going to get the result and fix it in time.
 
-How does this work what's happening? Too. I am trying to keep the system from essentially crashing or thyme, or just ending up in a disaster, sweaty, because if I don't do this, it won't matter. I'm not going to get the result and fix it in time. Yeah. It wasn't that going up to her really high level.
+(Student raises hand) Yes.
+
+Student: Wasn't that going up to a really high level? (???)
 
 Yes. And what does the saying is that. There are times when remember, this is question about whether or not we're talking about a model of what's in the world or a model of what's in the head of the operator. And we fudge that and said, are we talking about domain models and mapping the complexities of the domain?
 
