@@ -261,13 +261,14 @@ And I think changes the world a little bit. And it's on page 270 in the first fu
 
 Now, this is a really interesting idea. And what is this trying to get at here is this observation that operators can switch strategies. And is they can go from answering, try to answer these sorts of questions and other situations to say,
 
-this is disturbance management and this is a completely different kind of activity and what they slipped us in here in this little paragraph with our homeless, with almost without any kind of introduction. And they tell us about disturbance management.
+This is disturbance management and this is a completely different kind of activity and what they slipped us in here in this little paragraph with our homeless, with almost without any kind of introduction. And they tell us about disturbance management.
 
-And then go on and talk about it just a little bit, but it turns out that this is really crucial disturbance management is what you do when you don't know what to do. Okay. There's a wonderful paper in problem-solving literature called problem solving what you do when you don't know what to do. Disturbance management is what you do.
+And then go on and talk about it just a little bit, but it turns out that this is really crucial.
+Disturbance management is what you do when you don't know what to do. Okay. There's a wonderful paper in problem-solving literature called problem solving: what you do when you don't know what to do. Disturbance management is what you do when you don't know how to fix the underlying problem, but what you are trying to do is preserve the system long enough that you will have that chance.
 
-When you don't know how to fix the underlying problem, but what you are trying to do is preserve the system long enough that you will have that chance. And anybody who works in the healthcare field knows exactly what disturbance management is. Disturbance management is when you start chest compressions.
+And anybody who works in the healthcare field knows exactly what disturbance management is. Disturbance management is when you start chest compressions.
 
-When you start, when you are doing chest compressions, this is disturbance management. You've given up all the other diagnostic activities. And you've said, my primary goal right now is to keep. The little red things going round and round so that the big white thing up here continues to get enough oxygen that peoples, that's all you're saying.
+When you start, when you are doing chest compressions, this is disturbance management. You've given up all the other diagnostic activities. And you've said, my primary goal right now is to keep the little red things going round and round so that the big white thing up here continues to get enough oxygen that peoples, that's all you're saying.
 
 You're not saying I know what the problem is. I can fix this though. Does it? This was this disturbance management is where you shift in this big way, a shift of activities that the people are doing from being in this. I'm trying to figure out what goes on the diagnostic. What is happening here?
 
@@ -341,9 +342,9 @@ interestingly enough. At the same time that this was happening, there was deregu
 
 And the amount of regulatory numbers of people that were involved in here and the Canadian aviation boards supervision stuff was limited. So you had both one explosive growth of the airline industry and a decreased size of the regulatory bodies. And there was real concern that this problem had something to do with the ongoing yeah.
 
-Expansion of aviation and the problems with regulation and connect Canada is a parliamentary system. So there's no. There's no separate legislative investigative process. So they, the way that the parliamentary democracy is handled is by having a commission. And they took a former chief justice of the Supreme court of Canada justice  and they had him do a study and we'll share it ski study which started out after this is astonishing for a whole bunch of different reasons.
+Expansion of aviation and the problems with regulation and connect Canada is a parliamentary system. So there's no. There's no separate legislative investigative process. So they, the way that the parliamentary democracy is handled is by having a commission. And they took a former chief justice of the Supreme court of Canada justice and they had him do a study and we'll share it ski study which started out after this is astonishing for a whole bunch of different reasons.
 
-It looks at. Hundreds of thousands of pieces of evidence. It takes testimony under oath from a whole bunch of different people and hires a whole bunch of technical experts. It takes about two and a half years to complete the investigation that the commission complete the investigation and produces a four volume, actually a four printed volume report, which is huge.
+It looks at hundreds of thousands of pieces of evidence. It takes testimony under oath from a whole bunch of different people and hires a whole bunch of technical experts. It takes about two and a half years to complete the investigation that the commission complete the investigation and produces a four volume, actually a four printed volume report, which is huge.
 
 It's in my office. You'd want to see it. That is the most exhaustive look out of aviation crash ever. This is an incredible, okay. And in part, the reason that it's such an incredible look is because when they crashed, they lost the flight data recorder and the cockpit voice recorder.
 
