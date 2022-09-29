@@ -3,7 +3,7 @@
 Welcome to seminar number two: understanding cognitive demands and the Dryden Air Ontario crash in March of 1989. The thing we should begin with first is questions that people have from previous session. Are there things that you want to talk about or concerns that you have or issues that have come up, things that you're now thinking about or things that you want to bring up for attention or discussion? (silence)
 
 Okay. That's very reassuring. (laughter)
- 
+
 You've had a chance at least to look at some of the materials here and get a handle on the range of things and the range of things in this collection of readings is quite large. It extends all the way from very theoretical bits of stuff that looked really complicated to very concrete things like checklists to as far North as Winnipeg , Manitoba and as far South as the Micronesian Islands. And so it's a kind of a global experience. And the goal of the seminars to put this all together in a way that makes some sense for you, and that gets you a step closer to thinking about cognitive tasks and the cognitive domain that you're trying to enter.
 
  Let's first begin with the look at Woods and the paper from 1987, [mapping
@@ -257,7 +257,7 @@ And the answer is I think probably not. And that's one of the reasons why I thin
 
 And logical way you practice. It turns out to be really good, hard to do. In theory, it looks great. The university of Chicago, we used to have a saying, it's fine practice, but how does it work in theory? And. And in fact, this is one of the problems here is it's fine in theory, but it doesn't, it's not easy to see how it works in practice, but what does give us a, an observation and here in more of an empirical observation that really changes things.
 
-And I think changes the world a little bit. And it's on page two 70 in the first full paragraph. And he starts to talk about some of the real problems that face people. And he says, look, he says, what a large number of interconnected parts is combined with another dimension of complexity, feminism that is this thing changing very rapidly, the disturbance management, cognitive situation.
+And I think changes the world a little bit. And it's on page 270 in the first full paragraph. And he starts to talk about some of the real problems that face people. And he says, look, he says, what a large number of interconnected parts is combined with another dimension of complexity, feminism that is this thing changing very rapidly, the disturbance management cognitive situation.
 
 Now, this is a really interesting idea. And what is this trying to get at here is this observation that operators can switch strategies. And is they can go from answering, try to answer these sorts of questions and other situations to say,
 
