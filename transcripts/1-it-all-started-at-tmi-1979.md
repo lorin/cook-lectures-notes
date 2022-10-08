@@ -56,43 +56,13 @@ can send one out. Do you have a hard copy?
 
 ## Why is Three Mile Island so important?
 
-And most of this is a way of getting us into the topic of why Three Mile
-Island is so important and why it shapes all of the kinds of questions and
-issues that appear now, when people talk about studying cognitive work, if
-you try and look today at cognitive work studies, particularly those
-surrounding safety or human performance kinds of issues. This includes
-studies of people in simulators and work studies and incident reporting
-studies and accident investigation studies. That entire collection of
-materials, the way it's done, the way it is interpreted, really draws its
-source from Three Mile Island.
+And most of this is a way of getting us into the topic of why Three Mile Island is so important and why it shapes all of the kinds of questions and issues that appear now, when people talk about studying cognitive work, if you try and look today at cognitive work studies, particularly those surrounding safety or human performance kinds of issues. This includes studies of people in simulators and work studies and incident reporting studies and accident investigation studies that entire collection of materials, the way it's done the way it is interpreted really draws its source from Three Mile Island.
 
-Although human factors began earlier... really began in the late eighten
-hundreds with work on railroads and trying to understand safety on railroads.
-It took off as a kind of special discipline around the time of World War II,
-as people were trying to make weapons systems more effective and trying to
-figure out how to make guns and bombs and other things that were better and
-more easily controlled, and also trying to prevent plane crashes and aircraft
-that were happening about the time.
+Although human factors began earlier... really began in the late eighten hundreds with work on railroads and trying to understand safety on railroads. It took off as a kind of special discipline around the time of world war II, as people were trying to make weapons systems more effective and trying to figure out how to make guns and bombs and other things that were better and more easily controlled, and also trying to prevent plane crashes and aircraft that were happening about the time.
 
-It was a joke in human factors that, until 1979, the only two kinds of
-subjects that got any attention from human factors people were when someone
-died who shouldn't have, or someone didn't die who should have. And that was
-mostly either safety of aircraft or transportation systems or the failure of
-weapons systems to perform the way that they wanted. And it's probably mostly
-true.
+It was a joke in human factors that, until 1979, the only two kinds of subjects that got any attention from human factors people were when someone died who shouldn't have, or someone didn't die who should have. And that was mostly either safety of aircraft or transportation systems or the failure of weapons systems to perform the way that they wanted. And it's probably mostly true.
 
-Most of these systems that were getting human factors attention, were getting
-attention because of the knobs and dials features. You all know the kind of
-classic human factor story about trying to shape the landing gear control so
-that it was physically different than the flaps control, because both were on
-the side of the pilot in below,and he could reach down and easily think that
-he was lowering the landing gear when in fact he was lowering the flaps. And
-by changing the landing gear handle to have the shape of a wheel so it felt
-like the landing gear, you provided a communication to the pilot about what
-control he was actually touching so that when he moved it, he knew what it
-was he was actually affecting. That's the sort of classic human factors
-thing. If you're asking for a model, what is human factors? Most people would
-say, ah, that's the example we would look to.
+Most of these systems that were getting human factors attention, were getting attention because of the knobs and dials features. You all know the kind of classic human factor story about trying to shape the landing gear control so that it was physically different than the flaps control, because both were on the side of the pilot in below,and he could reach down and easily think that he was lowering the landing gear when in fact he was lowering the flaps. And by changing the landing gear handle to have the shape of a wheel so it felt like the landing gear, you provided a communication to the pilot about what control he was actually touching so that when he moved it, he knew what it was he was actually affecting. That's the sort of classic human factors thing. If you're asking for a model, what is human factors? Most people would say, ah, that's the example we would look to.
 
 What happened over the next 20 years or so, is that people started to build very large and very complex systems that involved extraordinary amounts of energy. This was, there were power plant failures and problems with power plants, particularly steam engines blowing up, both moving steam engines and stationary ones. And that happened from the 18 early 18 hundreds all the way through the 19 hundreds and the biggest kind of industrial accident that you could have short of a bridge collapsing was to have your steam boiler explode.
 
@@ -102,19 +72,17 @@ There were problems that occurred with other big mechanical failures, but they w
 
 There was a lot of discussion philosophically about what accidents meant and how they happened. This goes back all the way to 1900 or before. And people were talking about causes versus reasons and other kinds of theoretical ideas like this, but that was mostly in the form of philosophy. And wasn't really attached to any kind of empirical study.
 
-What happened at Three Mile Island was an accident that had actually happened before, which is one of the reasons why it was so distressing to people. Three Mile Island is actually an Island in Pennsylvania, in which there were two plants that were located together . On one side was a plant that had been up and running for a while called "Three Mile Island, Unit One". And then there was a plant that had a power generator that had just started up about a few months earlier called "Three Mile Island, Number Two". At the time of the accident, "Three Mile Island, Number One" was not running, it was down for refueling. And so the only plant that was really active was this "Three Mile Island, Number Two".
+What happened at Three Mile Island was an accident that had actually happened before, which is one of the reasons why it was so distressing to people. Three Mile Island is actually an Island in Pennsylvania, in which there were two plants that were located together . On one side was a plant that had been up and running for a while called &quot;Three Mile Island, Unit One&quot;. And then there was a plant that had a power generator that had just started up about a few months earlier called &quot;Three Mile Island, Number Two&quot;. At the time of the accident, &quot;Three Mile Island, Number One&quot; was not running, it was down for refueling. And so the only plant that was really active was this &quot;Three Mile Island, Number Two&quot;.
 
-And as you can tell from the Wikipedia story, what happened in "Three Mile Island, Number Two" was this long series of events that didn't seem to be causally related in the sense that one event didn't trigger another event directly, but they were functionally related because various systems in the power plant activated in response to these failures and generated the difficulty.
+And as you can tell from the Wikipedia story, what happened in &quot;Three Mile Island, Number Two&quot; was this long series of events that didn't seem to be causally related in the sense that one event didn't trigger another event directly, but they were functionally related because various systems in the power plant activated in response to these failures and generated the difficulty.
 
 What was happening was, in the non-nuclear portion of the plant, there was a device which was supposed to essentially purify the water that... I'm sorry, let me draw this differently.... there's a device, it was supposed to purify the water that came from the turbines after the steam had been used, the heat energy and the steam had been used, but came from the turbines that purified the water.
 
-When they had some problems with this device, they were trying to fix it in the way that they normally fix things. And they did some stuff here that caused essentially a transient to occur in  this that led to an emergency shutdown of the generating turbine, the generating turbine automatically trip.
+When they had some problems with this device, they were trying to fix it in the way that they normally fix things. And they did some stuff here that caused essentially a transient to occur in this that led to an emergency shutdown of the generating turbine. The generating turbine automatically tripped; this is the power generating thing that makes electricity.
 
-This is the S the power generating thing that makes electricity miss failed, because, or it was actually like stripping a circuit breaker when the condenser filtered process went down and. It shut the turbine off with the turbine off, there was no way to take energy out of the system and the nuclear reactor, which was over here was moving hot fluid, hot steam through a steam generator and the, in the steam generator, there was, there were other related pipes that were taking that hot energy.
+This failed, because, or tripped... was actually like tripping a circuit breaker. When the condenser filtered process went down and it shut the turbine off. With the turbine off, there was no way to take energy out of the system and the nuclear reactor, which was over here was moving hot fluid, hot steam through a steam generator and the, in the steam generator, there was, there were other related pipes that were taking that hot energy. Got a little steam generator here. We're taking the energy inside the steam generator. The steam from the nuclear power plant was passing around an exchanger, which was converting energy into steam in this other circuit. So there are two complete separate circuits and the two circuits are kept separate mechanically.
 
-Got a little better steam generator here. We're taking the energy inside the steam generator. The steam from the nuclear power plant was. Passing around an exchanger, which was converting energy into steam in this other circuit. So there are two complete separate circuits and the two circuits are kept separate mechanically. And the reason is that this circuit here with the nuclear power plant in it is with the nuclear reactor.
-
-It is inside the containment vessel and therefore protected for various kinds of leakages out to the outside. The only place where anything that could possibly become radioactive comes in contact with that is in this steam generator. And the steam generator is usually flowing cold water in, and it's being heated up by the hot steam from the from the nuclear power reactor.
+And the reason is that this circuit here with the nuclear power plant in it is with the nuclear reactor. It is inside the containment vessel and therefore protected from various kinds of leakages out to the outside. The only place where anything that could possibly become radioactive comes in contact with that is in this steam generator. And the steam generator is usually flowing cold water in, and it's being heated up by the hot steam from the from the nuclear power reactor.
 
 And that hot steam is converting the cold water from the generator side into steam, which then drives the turbine. So if you think about it, and in terms of energy, there's energy being created here, or being released here in the form of lots and lots of heat, and that heat is being transferred here out to the heat that is carried off and then used by the turbine.
 
@@ -170,7 +138,7 @@ Okay. Okay, go ahead. Sorry. As the water level fell, the reactor core became un
 
 It's almost you've got a whole stack of little columns, but you melt stuff on the top and it makes a solid clump. And so there were lots of places inside the reactor now where water couldn't circulate, but the temperature was very high and steam formed. Okay. And these were steep bits of steam that were trapped inside the reactor core, not able to escape.
 
-And as a consequence, the temperature went even higher here and it melted more of the the circle stuff. And you got this kind of reaction of essentially having the core start to slump. One of the problems with this thing, the circle is if you get the temperature high enough, you go from having the  to water and you produce from this.
+And as a consequence, the temperature went even higher here and it melted more of the the circle stuff. And you got this kind of reaction of essentially having the core start to slump. One of the problems with this thing, the circle is if you get the temperature high enough, you go from having the to water and you produce from this.
 
 Hydrogen and zirconium oxide. And the consequence of this is that there started to be hydrogen generated by this process as a by-product of the high heat and the exposure of the circle Lloyd and the hydrogen itself becomes a problem because it is not only something that can come through here, but it trapped in here.
 
@@ -210,7 +178,7 @@ As the temperature goes up, there's more pressure from the steam. It raises the 
 
 But if you ever fill this up, You have nothing. You now have no, no buffer in there. And the thing begins to react very violently. The problem of course, was that with this, you should have very high pressure
 
-and they were very concerned about this condition. But in fact, the pressures that were being measured were actually quite low and  they struggled for a long time hours to figure out how they could have low pressures. Being afraid of going shallot apparently have the por V valve closed.
+and they were very concerned about this condition. But in fact, the pressures that were being measured were actually quite low and they struggled for a long time hours to figure out how they could have low pressures. Being afraid of going shallot apparently have the por V valve closed.
 
 And in fact, inferred that the reactor had lots of water in it. That the problem was not that they had too little water, but that they had too much. And as a consequence, they turned off the automatic pumps whose function it is. To drive water into the reactor. There's an emergency system that is automatically supposed to turn on the pumps and drive water into the reactor.
 
@@ -248,7 +216,7 @@ And they would have had to put that all together in order to be able to form a c
 
 This is a really big event. It's the biggest event in nuclear history in the United States. It causes the end of the nuclear industry in the United States. Although some people will argue that's not the case. In fact, it basically destroyed the industry. It, after that, we didn't have any new plants commissioned and designed in the U S and nuclear power became essentially a dead object.
 
-All the activities related to developing new power plants. Went to France and to Japan.  But there were no more activities in the U S it ended up being a dead end. It was also such a big event that it really wasn't possible to just say, Oh, it was a case of human error and therefore we're done, if somebody drives a car the wrong way on the freeway, if somebody breaks a a component of an airplane.
+All the activities related to developing new power plants. Went to France and to Japan. But there were no more activities in the U S it ended up being a dead end. It was also such a big event that it really wasn't possible to just say, Oh, it was a case of human error and therefore we're done, if somebody drives a car the wrong way on the freeway, if somebody breaks a a component of an airplane.
 
 If somebody crashes a plane, these are all events, which are small enough that people can say, Oh, that's a case of human error. And that's a reasonably satisfactory explanation. But in the case of three mile Island, it wasn't an adequate explanation. It was too big and event. And the plant had been too carefully designed and the people in fact were not a bunch of.
 
@@ -256,7 +224,7 @@ Sort of low level, not very smart people. They were the best at the U S Navy had
 
 They didn't explain how it was that these people could have been confused about what was actually happening in the plant. This turns out to be the watershed from here everything starts right here in March of 1979.
 
-All of what we now call safety in complex systems, all of what we now do in cognitive work studies is derived from this event. And the reason is largely because this idea that human error was the cause became itself, something that needed to be studied and it generated a whole series of new researches and new quests and new examinations of the topic of error itself. The question would   became, what does it mean to make an error in this setting? What is an error? These guys actually believe that they were doing the right things with the plant, but that in fact they had a model of what the plant was doing that was incorrect. They had the wrong model.
+All of what we now call safety in complex systems, all of what we now do in cognitive work studies is derived from this event. And the reason is largely because this idea that human error was **the cause **became itself, something that needed to be studied and it generated a whole series of new researches and new quests and new examinations of the topic of error itself. The question would became, what does it mean to make an error in this setting? What is an error? These guys actually believe that they were doing the right things with the plant, but that in fact they had a model of what the plant was doing that was incorrect. They had the wrong model.
 
 In fact, there were multiple different kinds of models that there that one could have had about what's happening in the plant. But the one that they should have had that everybody understands, a significant loss of cooling accident, was not the one that they had in their minds.
 
@@ -288,7 +256,7 @@ And it's from this. That all of the research that we now have on safety is essen
 
 If there had been a rupture of a true loss of cooling action, big, some pipe burst or something like that. It would be quite different. Now the fact that the plant failed in a way that required the active participation of people is much more troubling than that. The plant failed in some sort of mechanical way, because now it asks you the question.
 
-Why do we have operators in these things? What are operators there for?  If what operators can do is essentially make the plant crash, what do we need the operators for? And it turns out that an  exploration of this is what starts to take place starting in 1980 and 1981. And you get Rasmussen's report, the one that you saw, which comes out. And there's a version, there's an early collection of stuff in 1979. And then 1981, he comes out with the report and the report is titled "Coping with Complexity". It's not error that he's focused on. He's focused on complexity because what Rasmussen, who is an engineer and has looked at these engineering kinds of things for a long time, realizes is that these guys have not so much made an error as the complexity of the world has defeated their abilities to understand what's going on. And he tries to understand how it is that people who are in this complex world go about this process of making a set of inferences about what the world is doing.
+Why do we have operators in these things? What are operators there for? If what operators can do is essentially make the plant crash, what do we need the operators for? And it turns out that an exploration of this is what starts to take place starting in 1980 and 1981. And you get Rasmussen's report, the one that you saw, which comes out. And there's a version, there's an early collection of stuff in 1979. And then 1981, he comes out with the report and the report is titled &quot;_Coping with Complexity_&quot;. It's not error that he's focused on. He's focused on complexity because what Rasmussen, who is an engineer and has looked at these engineering kinds of things for a long time, realizes is that these guys have not so much made an error as the complexity of the world has defeated their abilities to understand what's going on. And he tries to understand how it is that people who are in this complex world go about this process of making a set of inferences about what the world is doing.
 
 And in particular, in sophisticated control worlds where the only thing that the operator has to look at, are the sets of panels that are in the control room, that is, you can't look at the reactor and see it, you're looking at indicators. In this kind of world, he begins to ask the question: What should this collection of information look like, in order that these people, when they're making inferences about this come to the right conclusion? That's really the question that he's trying to answer.
 
@@ -300,7 +268,7 @@ Although there's lots of other stuff about hydrogen bubbles and people being eva
 
 This fixation idea, I think is a really important one because it's the fixation that becomes the real problem in understanding. It's not the case that one person was badly trained didn't understand this, he was there all by himself, working at night and somehow screwed up. Everybody who's there is caught in the same wrong framework and therefore it's a much more robust phenomenon that's happening. It's not just because of one person.
 
-By the way , in the report there on page nine there's a discussion there about the Navy technicians and they're working and he says , There is always a sense of urgency to a Navy technician's watch, a sense that this reactor is powering a ship of war on a mission, that he is accountable for his part, however small a fragment, of the total operation, and that if he is stumped, his superiors are close at hand, and they know the equipment better than he does.
+By the way , in the report there on page nine there's a discussion there about the Navy technicians and they're working and he says , _There is always a sense of urgency to a Navy technician's watch, a sense that this reactor is powering a ship of war on a mission, that he is accountable for his part, however small a fragment, of the total operation, and that if he is stumped, his superiors are close at hand, and they know the equipment better than he does._
 
 This is pretty much the beginning of what we will later call safety culture. The distinction between the world in which the nuclear reactor operators in the Navy work and the world of large power generation is one between the presence and the absence of what we think of as a safety culture.
 
@@ -326,33 +294,33 @@ But for all other kinds of activities, there must be some interpretation of thes
 
 The example that Rasmussen gives is, you can have the same meter mean three different things. This can be a signal if what you are doing is trying to, for instance, use a control knob and turn to get the meter to read something in a short period of time. That's just a signal. The interaction is a motor thing between how you turn the knob and what the needle does.
 
-Another use would be as a sign, which is where this is actually measuring the pressure. And you understand that this is a representation of pressure, not a needle pointing in a particular direction. The only way you can know this is by some outside thing. There's nothing about the needle and its location that makes you understand that it's a pressure  (gauge) . You need to understand that meter has that value. You turn it into a sign. It's the same physical device, but its meaning is different.
+Another use would be as a sign, which is where this is actually measuring the pressure. And you understand that this is a representation of pressure, not a needle pointing in a particular direction. The only way you can know this is by some outside thing. There's nothing about the needle and its location that makes you understand that it's a pressure (gauge) . You need to understand that meter has that value. You turn it into a sign. It's the same physical device, but its meaning is different.
 
 And for these kinds of activities related to this, there can be a whole series of rules that lead to various kinds of activities that end up looking like motor stuff, turning knobs, controlling various things.
 
-The biggest mistake that Rasmussen ever made, perhaps the only one ,from my view, is that he called this "rules". Because it encouraged people to imagine that the rules he's talking about are the rules we write down. That is, they think of this rules in this cognitive model as being rules, only turn on X when Y and Z are above... and so on, and so forth... a rule, a synthetic rule that we've made that we've written down, like a rule that you might read in an operating manual or a rule that you might read in, in a cookbook or something like that. He's not talking about rules, external to the people he's talking about rules that people have cognitively, that they can use as an immediate way to react to things.
+The biggest mistake that Rasmussen ever made, perhaps the only one ,from my view, is that he called this &quot;rules&quot;. Because it encouraged people to imagine that the rules he's talking about are the rules we write down. That is, they think of this rules in this cognitive model as being rules, only turn on X when Y and Z are above... and so on, and so forth... a rule, a synthetic rule that we've made that we've written down, like a rule that you might read in an operating manual or a rule that you might read in, in a cookbook or something like that. He's not talking about rules, external to the people he's talking about rules that people have cognitively, that they can use as an immediate way to react to things.
 
-For example, in his example, he gives a place where you have a low and a high value of pressure. And the rule that you have is so long as the needle is between these two things, there's nothing wrong with that, and I don't need to do anything. But if it exceeds, if it goes past this on either side, then I must do something. And you can look at this and you might even make  an adjustment to something without doing anything more than thinking about this needle and its location relative to the marks.
+For example, in his example, he gives a place where you have a low and a high value of pressure. And the rule that you have is so long as the needle is between these two things, there's nothing wrong with that, and I don't need to do anything. But if it exceeds, if it goes past this on either side, then I must do something. And you can look at this and you might even make an adjustment to something without doing anything more than thinking about this needle and its location relative to the marks.
 
 You have to work at this a little bit, but if you want look at his example, you'll be able to see it. He draws this out a little bit more in the paper. And finally, there's the level of the symbols, which is where the same meter means something different, which now has to do with an understanding of how this represents something in a system. For example, the pressure in the pressurizer, as a measurement here. And that the issue here is that we're thinking about this as the pressure in this particular location. That is it's become for us no longer, just a symbol of a sign of something, but actually becomes a symbol which represents some conditions someplace else that's part of our larger mental model.
 
 And this then refers to different levels of activity. One is skill. The other is rules. And this third one is knowledge. And by knowledge processing, what Rasmussen means is symbolic processing using symbols and bringing them together to create some larger model.
 
-This  (skill)  is very fast and it can become very skilled. You can do this, you can learn how to do this, and it doesn't require much conscious effort. You can ride a bicycle and listen to the radio at the same time.
+This (skill) is very fast and it can become very skilled. You can do this, you can learn how to do this, and it doesn't require much conscious effort. You can ride a bicycle and listen to the radio at the same time.
 
-This  (rules)  requires a little bit more effort, but you've automatically got the necessary sort of stuff. Again, it's not too effortful.
+This (rules) requires a little bit more effort, but you've automatically got the necessary sort of stuff. Again, it's not too effortful.
 
-But doing this kind of symbolic processing,  (knowledge)  this process of actually applying symbols and understanding what they mean is itself quite effortful. It takes lots of time. It requires consideration. And, indeed, it requires a whole collection of knowledge, not just about what the symbols mean, but of how they're related and a lot of information about the goals. That is the only way symbols make sense to you is if you are able to understand some of what Rasmussen admits is the teleology of the system.
+But doing this kind of symbolic processing, (knowledge) this process of actually applying symbols and understanding what they mean is itself quite effortful. It takes lots of time. It requires consideration. And, indeed, it requires a whole collection of knowledge, not just about what the symbols mean, but of how they're related and a lot of information about the goals. That is the only way symbols make sense to you is if you are able to understand some of what Rasmussen admits is the teleology of the system.
 
-Teleology is a tough concept. It's a concept related to what matters and why. It's the why of what matters. Why does this matter? It matters because, and then you have to have some higher level goal there. And what Rasmussen argues is that human beings are in fact, teleologic systems. That to think about them as simply mechanical devices that respond in a reflex fashion  misunderstands what they're doing because human beings are busy figuring out what is the right thing to do, and deciding on the basis of teleologic principles, rather than just simply following  rules or applying a skill.
+Teleology is a tough concept. It's a concept related to what matters and why. It's the why of what matters. Why does this matter? It matters because, and then you have to have some higher level goal there. And what Rasmussen argues is that human beings are in fact, teleologic systems. That to think about them as simply mechanical devices that respond in a reflex fashion misunderstands what they're doing because human beings are busy figuring out what is the right thing to do, and deciding on the basis of teleologic principles, rather than just simply following rules or applying a skill.
 
-The operators in the plant had lots of these things  (skills)  in lots of these things  (rules) . But when they got involved in this knowledge, symbolic level, the data that they were working with could not be manipulated for them to understand and formulate a correct model of the plant.
+The operators in the plant had lots of these things (skills) in lots of these things (rules) . But when they got involved in this knowledge, symbolic level, the data that they were working with could not be manipulated for them to understand and formulate a correct model of the plant.
 
 All the information that was flowing from the world was coming in as signals. But it didn't somehow get up into this knowledge world in the right sort of way. So the right symbols aren't being generated. And people are not therefore able to build a working mental model of what's happening in the plant.
 
 Rasmussen talks here about mental models. It's one of the first, early times that mental models are developed, although Rouse is one of the first people to do that in his work. And there's a real fascination around this time and for several years afterwards, with mental models, which means the models that we have in our head of some portion of the world and how it works. And there's a tremendous amount of exploration that flows from this that is related to trying to discover those models, understand where their flaws are, understand how people get them. Because it's clear that people have them and can even run the models as a kind of mental simulation that allows them to figure out what's going on.
 
-They also can do it in a kind of more mechanical way. They can say, if the pressure here is this and the temperature here is that, then this must be happening. That kind of reasoning is symbolic reasoning. But again, it requires some sort of mental model in order for that to happen. And what Rasmussen is saying is what we really want to be able to do is to make sure that when people are processing all this stuff that we are supporting in them, the development of a mental model that corresponds with what's really going on in the world rather than something else.
+They also can do it in a kind of more mechanical way. They can say, _if_ the pressure here is _this_ and the temperature here is _that_, then _this_ must be happening. That kind of reasoning is symbolic reasoning. But again, it requires some sort of mental model in order for that to happen. And what Rasmussen is saying is what we really want to be able to do is to make sure that when people are processing all this stuff that we are supporting in them, the development of a mental model that corresponds with what's really going on in the world rather than something else.
 
 If your mental model is in fact incorrect, if you've got the wrong mental model, then the actions that you're going to take are not going to be effective to the extent that the model doesn't correspond with reality.
 
@@ -364,7 +332,9 @@ Is trying to get a handle on how people do this process so that they can build i
 
 But what is that the people who are working around Rasmussen and in that group, sometimes the including people on the fringes, but basically mostly people who are coming from the nuclear world, that group of people keeps working on this and gives rise to a whole nother set of people.
 
-For instance, Karl Weick and his sense-making Is a direct outflow of this experience. The fact that operators are trying to make sense of what is going on and failing in it is the fundamental. Trigger point for all of this stuff that follows afterwards, the management people, the sociologists, the business school people, they're all basically concerned with, how do we build plants?
+For instance, Carl White and his sense-making
+
+Is a direct outflow of this experience. The fact that operators are trying to make sense of what is going on and failing in it is the fundamental. Trigger point for all of this stuff that follows afterwards, the management people, the sociologists, the business school people, they're all basically concerned with, how do we build plants?
 
 How do we build environments that allow us to manage these kinds of risky, potentially very hazardous systems by ensuring that operators actually get them right. Understanding of what's going on when they're faced with some kind of breakdown or flaw. What Rasmussen does in skills, rules, and knowledge is set the sort of basic philosophical and engineering requirements for that world.
 
@@ -470,16 +440,13 @@ But the problem is that, that, and this is especially true in healthcare in orde
 
 And you can probably deliver it pretty safely. The problem is you can only, there are only a certain number of diseases you can treat with that. And so we end up in the situation where in order to accomplish our ends, we need more and more complex systems. And we're still struggling with trying to figure out how to manage those sorts of things. That struggle is still ongoing.
 
-Everybody will cite skills, rules, and knowledge. At different times, you'll
-see it in a lot of citations. It's one of the most wonderful papers that's
-ever been written. From my reading it now it's actually quite a pleasure
-because you can see in it that Rasmussen here is foreshadowing a whole bunch
-of stuff that's going to come.
+Everybody will cite _skills, rules, and knowledge_. At different times, you'll see it in a lot of citations. It's one of the most wonderful papers that's ever been written. From my reading it now it's actually quite a pleasure because you can see in it that Rasmussen here is foreshadowing a whole bunch of stuff that's going to come.
 
 What he writes about in here is essentially the agenda for the next ten years. And people go on and pursue each one of these activities and they do all the stuff that he is talking about in an effort to get a handle on this. He puts it all together in this particular setting, he describes what the problem is. He describes the underlying theory. He describes the obstacles and the important things that need to be done. He sets out the research program and people go off and do it.
 
-The *one* thing that he got into trouble with is rules. Because when he used rules, people immediately thought, "Ah... what I need to do is develop a good enough set of rules that has policies and procedures that nobody gets confused".
+The _one_ thing that he got into trouble with is rules. Because when he used rules, people immediately thought, &quot;Ah... what I need to do is develop a good enough set of rules that has policies and procedures that nobody gets confused&quot;.
 
-But he wasn't talking about rules in the world; he wasn't talking about rules in the  sense of the volumes of paper that we read. He was talking about human cognition inside this figure  (gestures to whiteboard) . And he's talking about the rules that are built into people's own processing.
+But he wasn't talking about rules in the world; he wasn't talking about rules in the sense of the volumes of paper that we read. He was talking about human cognition inside this figure (gestures to whiteboard) . And he's talking about the rules that are built into people's own processing.
 
 Okay. Thank you very much.
+
