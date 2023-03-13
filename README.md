@@ -1,8 +1,8 @@
 # Notes on Dr. Richard Cook's lectures on the study of cognitive work
 
-My personal, unofficial, incomplete notes based on watching Dr. Richard Cook's lectures on the study of cognitive work at <https://vimeo.com/showcase/6184024>.
+My personal, unofficial, incomplete notes based on watching Dr. Richard Cook's lectures on the study of cognitive work at <https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY>.
 
-The seventh lecture is not in the collection, but it can be found on Vimeo at https://vimeo.com/95514812. It is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
+The seventh lecture is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
 
 ## Terms
 
@@ -39,7 +39,7 @@ All references are just my best guesses from the context of the videos.
 
 ### Lecture 1:  It all started at TMI, 1979
 
-* [video](https://vimeo.com/showcase/6184024/video/85909644)
+* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=1)
 * [transcript](transcripts/1-it-all-started-at-tmi-1979.md)
 
 
@@ -84,7 +84,7 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 2: Understanding cognitive demands & goal conflicts; Dryden Air Ontario Crash
 
-* [video](https://vimeo.com/showcase/6184024/video/86602403)
+* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=2)
 * [transcript](transcripts/2-understanding-cognitive-demands-dryden-1989.md)
 
 
@@ -95,7 +95,7 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
 
-* [video](https://vimeo.com/showcase/6184024/video/87849921)
+* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=3)
 * [transcript](transcripts/3-bootstrapping-artifacts-and-tokaimura-1999.md)
 
 
@@ -137,7 +137,7 @@ Most references are from the following two special issues:
 
 ### Lecture 4: Process tracing, Texas City BP explosion
 
-* [video](https://vimeo.com/showcase/6184024/video/89228540)
+* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=4)
 * [transcript](transcripts/4-process-tracing-texas-city-bp-explosion.md)
 
 
@@ -150,14 +150,14 @@ Most references are from the following two special issues:
 
 ### Lecture 6: Stark, Vincennes, RPD, and NDM
 
-* [video](https://vimeo.com/showcase/6184024/video/89228540)
+* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=6)
 * [transcript](transcripts/6-stark-vincennes-rpd-and-npm.md)
 
 ### Lecture 7: Jeffrey Braithwaite Looks at Safety
 
-[video](https://vimeo.com/95514812)
+[video]([https://vimeo.com/95514812](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=7)
 
 ### Lecture 8: Review
 
-* [video](https://vimeo.com/showcase/6184024/video/96505935)
+* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=8)
 * [transcript](transcripts/8-review.md)
