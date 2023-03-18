@@ -168,7 +168,7 @@ Most references are from the following two special issues:
 
 ### Lecture 7: Jeffrey Braithwaite Looks at Safety
 
-[video]([https://vimeo.com/95514812](https://www.youtube.com/watch?v=UOBegelQ1bA&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
+* [video](https://www.youtube.com/watch?v=UOBegelQ1bA&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
 
 ### Lecture 8: Review
 
