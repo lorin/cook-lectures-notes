@@ -2,23 +2,33 @@
 
 My notes on [Dr. Richard Cook's lectures on the study of cognitive work](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY).
 
-Note: The seventh lecture is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
+| # | Title |
+| - | ----- |
+| 1 | It all started at TMI, 1979 |
+| 2 | Understanding cognitive demands & goal conflicts; Dryden Air Ontario Crash, 1989 |
+| 3 | Bootstrapping, Artifacts, and Tokaimura, 1999 |
+| 4 | Process tracing Texas City BP explosion 2005 |
+| 5 | (missing) |
+| 6 | Stark, Vincennes, RPD, and NDM |
+| 7 | [Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite) Looks at Safety |
+| 8 | Review |
+
 
 ## Terms
 
 * artifacts (cognitive)
-* bootstrapping,
-* cognitive work,
-* demands (cognitive),
-* fixation,
-* goal conflicts,
-* human error,
-* model (mental),
-* naturalistic decision making (NDM),
-* operators,
-* process tracing,
-* recognition-primed decision (RPD),
-* skills/rules/knowledge (SKR),
+* bootstrapping
+* cognitive work
+* demands (cognitive)
+* fixation
+* goal conflicts
+* human error
+* model (mental)
+* naturalistic decision making (NDM)
+* operators
+* process tracing
+* recognition-primed decision (RPD)
+* skills/rules/knowledge (SKR)
 * teleology of the system
 
 ## Accident case studies
