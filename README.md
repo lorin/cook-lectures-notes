@@ -1,12 +1,12 @@
 # Notes on Dr. Richard Cook's lectures on the study of cognitive work
 
-My notes on [Dr. Richard Cook's lectures on the study og cognitive work](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY).
+My notes on [Dr. Richard Cook's lectures on the study of cognitive work](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY).
 
 Note: The seventh lecture is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
 
 ## Terms
 
-* artifacts (cognitive),
+* artifacts (cognitive)
 * bootstrapping,
 * cognitive work,
 * demands (cognitive),
