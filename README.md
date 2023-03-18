@@ -1,25 +1,25 @@
 # Notes on Dr. Richard Cook's lectures on the study of cognitive work
 
-My personal, unofficial, incomplete notes based on watching Dr. Richard Cook's lectures on the study of cognitive work at <https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY>.
+My notes on [Dr. Richard Cook's lectures on the study og cognitive work](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY).
 
-The seventh lecture is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
+Note: The seventh lecture is a guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
 
 ## Terms
 
-artifacts (cognitive),
-bootstrapping,
-cognitive work,
-demands (cognitive),
-fixation,
-goal conflicts,
-human error,
-model (mental),
-naturalistic decision making (NDM),
-operators,
-process tracing,
-recognition-primed decision (RPD),
-skills/rules/knowledge (SKR),
-teleology of the system
+* artifacts (cognitive),
+* bootstrapping,
+* cognitive work,
+* demands (cognitive),
+* fixation,
+* goal conflicts,
+* human error,
+* model (mental),
+* naturalistic decision making (NDM),
+* operators,
+* process tracing,
+* recognition-primed decision (RPD),
+* skills/rules/knowledge (SKR),
+* teleology of the system
 
 ## Accident case studies
 
