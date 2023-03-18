@@ -94,7 +94,7 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 2: Understanding cognitive demands & goal conflicts; Dryden Air Ontario Crash
 
-* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=2)
+* [video](https://www.youtube.com/watch?v=lczP8x2cjGc&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
 * [transcript](transcripts/2-understanding-cognitive-demands-dryden-1989.md)
 
 
@@ -105,9 +105,8 @@ People were upset by TMI b/c there seem to have been multiple opportunities for 
 
 ### Lecture 3: Bootstrapping, artifacts, and Tokaimura
 
-* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=3)
+* [video](https://www.youtube.com/watch?v=4p3CoqcMIMg&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
 * [transcript](transcripts/3-bootstrapping-artifacts-and-tokaimura-1999.md)
-
 
 Notes
 
@@ -147,7 +146,7 @@ Most references are from the following two special issues:
 
 ### Lecture 4: Process tracing, Texas City BP explosion
 
-* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=4)
+* [video](https://www.youtube.com/watch?v=K_oSf_NwRhQ&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
 * [transcript](transcripts/4-process-tracing-texas-city-bp-explosion.md)
 
 
@@ -158,16 +157,20 @@ Most references are from the following two special issues:
 * David Woods, [Process tracing methods for the study of cognition outside the experimental psychology laboratory](https://www.researchgate.net/publication/316655550_Process_tracing_methods_for_the_study_of_cognition_outside_the_experimental_psychology_laboratory), 1993.
 * K. Anders Ericsson and Herbert A. Simon, [Verbal reports as data](https://psycnet.apa.org/record/1980-24435-001), Psychological Review, 87(3), 1980, 215–251.
 
+### Lecture 5
+
+(This lecture is missing)
+
 ### Lecture 6: Stark, Vincennes, RPD, and NDM
 
-* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=6)
+* [video](https://www.youtube.com/watch?v=KVGyecHWJKM&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
 * [transcript](transcripts/6-stark-vincennes-rpd-and-npm.md)
 
 ### Lecture 7: Jeffrey Braithwaite Looks at Safety
 
-[video]([https://vimeo.com/95514812](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=7)
+[video]([https://vimeo.com/95514812](https://www.youtube.com/watch?v=UOBegelQ1bA&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
 
 ### Lecture 8: Review
 
-* [video](https://www.youtube.com/watch?v=H-VTafOPLR4&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY&index=8)
+* [video](https://www.youtube.com/watch?v=ulS338CGeV0&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
 * [transcript](transcripts/8-review.md)
