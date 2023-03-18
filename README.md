@@ -2,6 +2,17 @@
 
 My notes on [Dr. Richard Cook's lectures on the study of cognitive work](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY).
 
+For more information about Richard Cook, see:
+
+* [The Career, Accomplishments, and Impact of Richard I. Cook: A Life in Many Acts
+](https://www.adaptivecapacitylabs.com/blog/2022/09/12/richard-cook-a-life-in-many-acts/)
+* [Richard Cook's Wikipedia page](https://en.wikipedia.org/wiki/Richard_Cook_(safety_researcher))
+
+
+## Overview of lectures
+
+[YouTube playlist of lectures](https://www.youtube.com/playlist?list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
+
 | # | Title |
 | - | ----- |
 | 1 | It all started at TMI, 1979 |
@@ -10,9 +21,18 @@ My notes on [Dr. Richard Cook's lectures on the study of cognitive work](https:/
 | 4 | Process tracing Texas City BP explosion 2005 |
 | 5 | (missing) |
 | 6 | Stark, Vincennes, RPD, and NDM |
-| 7 | [Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite) Looks at Safety |
+| 7 | Jeffrey Braithwaite Looks at Safety |
 | 8 | Review |
 
+The lectures reference the following accidents:
+
+* [Three Mile Island accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident), March 1979
+* [Dryden Air Ontario Crash](https://en.wikipedia.org/wiki/Air_Ontario_Flight_1363), March 1989
+* [Tokaimaura reprocessing accident](https://en.wikipedia.org/wiki/Tokaimura_nuclear_accident#1999_accident), September 1999
+* [Texas City BP explosion](https://en.wikipedia.org/wiki/Texas_City_Refinery_explosion), March 2005
+* [USS Stark incident](https://en.wikipedia.org/wiki/USS_Stark_incident), May 1987
+* [Iran Air Flight 655 shot down by USS Vincennes](https://en.wikipedia.org/wiki/Iran_Air_Flight_655), July 1988
+* [Chatsworth train collision](https://en.wikipedia.org/wiki/2008_Chatsworth_train_collision), September 2008
 
 ## Terms
 
@@ -31,17 +51,6 @@ My notes on [Dr. Richard Cook's lectures on the study of cognitive work](https:/
 * skills/rules/knowledge (SKR)
 * teleology of the system
 
-## Accident case studies
-
-All links are to Wikipedia.
-
-* [Three Mile Island accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident), March 1979
-* [USS Stark incident](https://en.wikipedia.org/wiki/USS_Stark_incident), May 1987
-* [Iran Air Flight 655 shot down by USS Vincennes](https://en.wikipedia.org/wiki/Iran_Air_Flight_655), July 1988
-* [Dryden Air Ontario Crash](https://en.wikipedia.org/wiki/Air_Ontario_Flight_1363), March 1989
-* [Tokaimaura reprocessing accident](https://en.wikipedia.org/wiki/Tokaimura_nuclear_accident#1999_accident), September 1999
-* [Texas City BP explosion](https://en.wikipedia.org/wiki/Texas_City_Refinery_explosion), March 2005
-* [Chatsworth train collision](https://en.wikipedia.org/wiki/2008_Chatsworth_train_collision), September 2009
 
 ## By lecture
 
@@ -168,7 +177,10 @@ Most references are from the following two special issues:
 
 ### Lecture 7: Jeffrey Braithwaite Looks at Safety
 
+Guest lecture by [Professor Jeffrey Braithwaite](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/our-people/our-people-chris/professor-jeffrey-braithwaite).
+
 * [video](https://www.youtube.com/watch?v=UOBegelQ1bA&list=PLb1aZTnPf3-OEU1by77zZQQYckvXUGmNY)
+
 
 ### Lecture 8: Review
 
