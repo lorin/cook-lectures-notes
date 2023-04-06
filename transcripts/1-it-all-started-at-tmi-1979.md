@@ -1,6 +1,6 @@
 # 1. It all started at TMI, 1979
 
-<https://vimeo.com/showcase/6184024/video/85909644>
+<https://youtu.be/H-VTafOPLR4>
 
 Feb. 3, 2014
 
