@@ -68,13 +68,33 @@ One of the problems with what they ended up with was, they ended up with a bunch
 
 The problem was that each one of these processes would produce a different efficiency in terms of the purifications. Might be 99%, it might be 98, this could be 92. And so what you had is these things coming out, each of which had a different quality to it. So if you were the plant receiving this stuff, you'd have to take a look at each one of these little things and decide what kind of quality fuel it was and change your processes, how much, how many pellets you're going to get on. It's a really bad way of doing things.
 
-So the goal became, we want everything that you produce to us to be at the same quality level. Now there's two ways you can achieve that. One is you can make this system so perfect that it always produces 98%. The other way is you can take whatever you've got here. And mix it up and put it back in these little bottles, but by mixing it, this one gets a little bit of this one gets mixed with this and becomes a different piece. And this one gets mixed with this and becomes a different bit. And then these two get mixed together. You can find a way to essentially mix stuff so that it all gets averaged out. It's basically an averaging process. You're using the, these amounts, which are, have different qualities, but you're spreading it out by doing a whole bunch of mixing to make it so that these things in the end are all the same. That's the whole idea is to get them all to be the same.
+(18:55)
 
-Notice that this is at the end of the process. It's something that you're doing because it makes your product more attractive. And the rest of the stuff, the basic physics hasn't changed, it's just a way of selling better materials, making your customer happier.
+So the goal became, we want everything that you produce to us to be at the same
+quality level. Now there's two ways you can achieve that. One is you can make
+this system so perfect that it always produces 98%. The other way is you can
+take whatever you've got here and mix it up and put it back in these little
+bottles, but by mixing it, this one gets a little bit of this one gets mixed
+with this and becomes a different piece. And this one gets mixed with this and
+becomes a different bit. And then these two get mixed together. You can find a
+way to essentially mix stuff so that it all gets averaged out. It's basically an
+averaging process. You're using the, these amounts, which are, have different
+qualities, but you're spreading it out by doing a whole bunch of mixing to make
+it so that these things in the end are all the same. That's the whole idea is to
+get them all to be the same.
 
-Now, somewhere in the five years preceding this event, they had realized that they had here one really big tank. This really big tank was about a half a meter across and almost a meter tall. And this tank was big enough and it had, the other thing was that it had down in it, little propeller on on the end of a motor, which could circulate what's inside the tank. And it also had a water jacket around it. That is a kind of a sleeve around this thing, through which cooling water could be pumped. So you can pump water in here and keep the vessel cool. And they realized that one of the ways that you could take these things and instead of doing this mixing is to actually do something in here. That, is if you poured them in here and just turned on the propeller, it would mix all this stuff together so that it was all one stuff. And then you could take, come out the little spout here at the end and you could fill your little containers and off you go. All this sounds funny and you're laughing because it sounds so simple, but it is almost just this simple. It's got a few more steps in it, but it's right about this simple.
+(19:51)
 
-So at about 10:35 in the morning, on this day in 1999, these three guys were in there. Three Japanese guys, two of whom had some experience with this, one who's a brand new guy. And they're taking a bunch of these things and there's a little, actually, the top of this is closed. You couldn't see inside it. It's got a dome on it and there's a little hole in here and they had put a funnel in this and were pouring these things one after another, into the tank. And once they got to about 6.8 or 6.9 kilograms. And by the way, this, because it's here is all together. There was a sudden flash of blue light that came out of this and a sound and a little shaking, and they immediately realized that they had something very wrong. This had never happened before.
+Notice that this is at the end of the process. It's something that you're doing
+because it makes your product more attractive. And the rest of the stuff, the
+basic physics hasn't changed. It's just a way of selling better materials,
+making your customer happy.
+
+Now, somewhere in the five years preceding this event, they had realized that they had here one really big tank. This really big tank was about a half a meter across and almost a meter tall. And this tank was big enough and it had, the other thing was that it had down in it, little propeller on on the end of a motor, which could circulate what's inside the tank. And it also had a water jacket around it. That is a kind of a sleeve around this thing, through which cooling water could be pumped. So you can pump water in here and keep the vessel cool. And they realized that one of the ways that you could take these things and instead of doing this mixing is to actually do something in here. That, is if you poured them in here and just turned on the propeller, it would mix all this stuff together so that it was all one stuff. And then you could take, come out the little spout here at the end and you could fill your little containers and off you go. 
+
+I mean, this sounds funny and you're laughing because it sounds so simple, but it is almost just this simple. It's got a few more steps in it, but it's right about this simple.
+
+So, at about 10:35 in the morning, on this day in 1999, these three guys were in there. Three Japanese guys, two of whom had some experience with this, one who's a brand new guy. And they're taking a bunch of these things and there's a little, actually, the top of this is closed. You couldn't see inside it. It's got a dome on it and there's a little hole in here and they had put a funnel in this and were pouring these things one after another, into the tank. And once they got to about 6.8 or 6.9 kilograms. And by the way, this, because it's here is all together. There was a sudden flash of blue light that came out of this and a sound and a little shaking, and they immediately realized that they had something very wrong. This had never happened before.
 
 And the two guys who, one guy who was pouring and the other guy who was apparently holding the funnel, both got lethal doses of radiation, which is not terribly surprising because this jacket doesn't provide any protection against the radiation. So basically they were sitting on top of a hot nuclear reactor about maybe two and a half feet away from a nuclear chain reaction that's gone critical. And so they had just got burned right down. The guy out here didn't get quite so badly burned. He actually survived. The two guys who were burned right down didn't. That one died. I would think a week later on the other a month later or so after bone marrow transplant that didn't work.
 
