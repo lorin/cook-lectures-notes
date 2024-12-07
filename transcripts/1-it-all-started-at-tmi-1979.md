@@ -118,9 +118,9 @@ If that happens. The fuel pellet becomes exposed and can break down. And then yo
 
 So it's a critical importance that the reactor core, which is this chunk in here, that's about 15 feet tall and made out of whole bunches of tubes. This are collected in assemblies, continue to stay covered with water, the real critical component of all this. As you've got to keep that reactor covered with water.
 
-If the reactor core is covered with water, you're doing okay. If it becomes uncovered, you're in a really bad situation. There is it a variety of systems in here that are designed to help keep the system under control. And one of them is a kind of a pressurizer and there's a valve associated with this pressurizer called the pressure, pressure pressurizer. Over pressure relief valve or PRV. And the function of the PRV is to allow pressure sure. In the reactor to exceed a certain point and then open automatically so that no damage happens to all the piping in here. That pressure is in the thousand PSI range. And the por V does this automatically.
+If the reactor core is covered with water, you're doing okay. If it becomes uncovered, you're in a really bad situation. There is it a variety of systems in here that are designed to help keep the system under control. And one of them is a kind of a pressurizer and there's a valve associated with this pressurizer called the pressure, pressure pressurizer. Over pressure relief valve or PRV. And the function of the PRV is to allow pressure sure. In the reactor to exceed a certain point and then open automatically so that no damage happens to all the piping in here. That pressure is in the thousand PSI range. And the PRV does this automatically.
 
-It doesn't, it's not, it doesn't have to be told to do this. It will do it beyond a certain. Certain level, but it can also be opened and closed by a solo night. The por V in this reactor had been sticking open. There were problems with it. There were known problems with PRV valves and other reactors of this design.
+It doesn't, it's not, it doesn't have to be told to do this. It will do it beyond a certain. Certain level, but it can also be opened and closed by a solo night. The PRVV in this reactor had been sticking open. There were problems with it. There were known problems with PRV valves and other reactors of this design.
 
 One of the problems with the PRV is that if it opens up and lets the pressure fall, the coolant and the reactor begins to boil, you have a . A pressure cooker at home, and you can get a higher temperature of the water by containing and the materials, the boiling steam in here under pressure, the higher, the pressure, the higher, the temperature at which water boils and this reactor, which is called a high pressure pressure reactor.
 
@@ -144,7 +144,7 @@ Hydrogen and zirconium oxide. And the consequence of this is that there started 
 
 If you start to combine it with oxygen, you can have an explosion. And there was a lot of concern about this explosion. What was interesting. Was from a control room standpoint. And you can see this in some of the diagrams.
 
-Is that in the control room? Hold on. Let's see if we can get Sandy going here again. Try that again. If you look at the control room, there's nothing in the control room. That says here's the reactor vessel. And here is the water level. There's nothing like that in the control room. You can't look at any, you can't look at any kind of meter and say, Oh, this is what the level of the water and the reactor is.
+Is that in the control room? Hold on. Let's see if we can get Sandy going here again. Try that again. If you look at the control room, there's nothing in the control room that says, "here's the reactor vessel and here is the water level". There's nothing like that in the control room. You can't look at any, you can't look at any kind of meter and say, Oh, this is what the level of the water and the reactor is.
 
 All of this comes about your understanding of this comes about from a process of inference that you have to make by looking at many different knobs and dials, the settings of all sorts of switches, various kinds of indicators,
 
