@@ -160,7 +160,10 @@ has to look at these collections of data.
 
 And from this, make an inference about what the water level is because there is no, because there is no direct measure here. All of this is inferential, and it's usually done by looking at the temperatures and the pressures of various valves that measure things at different locations. The problem here was that the reactors behavior, the nuclear power plants behavior didn't make any sense.
 
-It didn't make sense. Because, although it appeared that the system was working and it, and there was an indicator light that was on that says the PO PRV is closed. It says the PRV is closed. This is just an indicator for a solenoid that is supposed to close the valve, not its actual location. So there's a.
+It didn't make sense. Because, although it appeared that the system was working
+and it, and there was an indicator light that was on that says the PORV is
+closed. It says the PORV is closed. This is just an indicator for a solenoid that
+is supposed to close the valve, not its actual location. So there's a.
 
 Circuit there, which is supposed to activate a solenoid, which is supposed to allow the valve to close and the solenoid can act, but the valve may be stuck open. But the only indicator that they had was the, this light, which measures the electricity, going through the soul. And I not be actual position of the valve.
 
