@@ -704,17 +704,53 @@ of the world that the person has that they've imposed on it. The meaning of a
 sign is derived from the understanding of the world. It's teleological rather
 than simply derived from the signal itself.
 
-The example that Rasmussen gives is, you can have the same meter mean three different things. This can be a signal if what you are doing is trying to, for instance, use a control knob and turn to get the meter to read something in a short period of time. That's just a signal. The interaction is a motor thing between how you turn the knob and what the needle does.
+The example that Rasmussen gives is, you can have the same meter mean three
+different things. This can be a signal if what you are doing is trying to, for
+instance, use a control knob and turn it to get the meter to read something in a
+short period of time. That's just a signal. The interaction is a motor thing
+between how you turn the knob and what the needle does.
 
-Another use would be as a sign, which is where this is actually measuring the pressure. And you understand that this is a representation of pressure, not a needle pointing in a particular direction. The only way you can know this is by some outside thing. There's nothing about the needle and its location that makes you understand that it's a pressure (gauge) . You need to understand that meter has that value. You turn it into a sign. It's the same physical device, but its meaning is different.
+Another use would be as a sign, which is where this is actually measuring the
+pressure. And you understand that this is a representation of pressure, not a
+needle pointing in a particular direction. The only way you can know this is by
+some outside thing. There's nothing about the needle and its location that makes
+you understand that it's a pressure (gauge) . You need to understand that meter
+has that value. You turn it into a sign. It's the same physical device, but its
+meaning is different.
 
-And for these kinds of activities related to this, there can be a whole series of rules that lead to various kinds of activities that end up looking like motor stuff, turning knobs, controlling various things.
+And for these kinds of activities related to this, there can be a whole series
+of rules that lead to various kinds of activities that end up looking like motor
+stuff, turning knobs, controlling various things.
 
-The biggest mistake that Rasmussen ever made, perhaps the only one ,from my view, is that he called this "rules". Because it encouraged people to imagine that the rules he's talking about are the rules we write down. That is, they think of this rules in this cognitive model as being rules, only turn on X when Y and Z are above... and so on, and so forth... a rule, a synthetic rule that we've made that we've written down, like a rule that you might read in an operating manual or a rule that you might read in, in a cookbook or something like that. He's not talking about rules, external to the people he's talking about rules that people have cognitively, that they can use as an immediate way to react to things.
+The biggest mistake that Rasmussen ever made, perhaps the only one from my
+view, is that he called this "rules". Because it encouraged people to imagine
+that the rules he's talking about are the rules we write down. That is, they
+think of this rules in this cognitive model as being rules like  "only turn on X when
+Y and Z are above..." and so on, and so forth... a synthetic rule that
+we've made that we've written down, like a rule that you might read in an
+operating manual or a rule that you might read in a cookbook or something
+like that. He's not talking about rules external to the people he's talking
+about rules that people have cognitively, that they can use as an immediate way
+to react to things.
 
-For example, in his example, he gives a place where you have a low and a high value of pressure. And the rule that you have is so long as the needle is between these two things, there's nothing wrong with that, and I don't need to do anything. But if it exceeds, if it goes past this on either side, then I must do something. And you can look at this and you might even make an adjustment to something without doing anything more than thinking about this needle and its location relative to the marks.
+In his example, he gives a place where you have a low and a high
+value of pressure. And the rule that you have: is so long as the needle is
+between these two things, there's nothing wrong with that, and I don't need to
+do anything. But if it exceeds, if it goes past this on either side, then I must
+do something. And you can look at this and you might even make an adjustment to
+something without doing anything more than thinking about this needle and its
+location relative to the marks.
 
-You have to work at this a little bit, but if you want look at his example, you'll be able to see it. He draws this out a little bit more in the paper. And finally, there's the level of the symbols, which is where the same meter means something different, which now has to do with an understanding of how this represents something in a system. For example, the pressure in the pressurizer, as a measurement here. And that the issue here is that we're thinking about this as the pressure in this particular location. That is it's become for us no longer, just a symbol of a sign of something, but actually becomes a symbol which represents some conditions someplace else that's part of our larger mental model.
+You have to work at this a little bit, but if you want look at his example,
+you'll be able to see it. He draws this out a little bit more in the paper. And
+finally, there's the level of the symbols, which is where the same meter means
+something different, which now has to do with an understanding of how this
+represents something in a system. For example, the pressure in the pressurizer,
+as a measurement here. And that the issue here is that we're thinking about this
+as the pressure in this particular location. That is it's become for us no
+longer, just a symbol of a sign of something, but actually becomes a symbol
+which represents some conditions someplace else that's part of our larger mental
+model.
 
 And this then refers to different levels of activity. One is skill. The other is rules. And this third one is knowledge. And by knowledge processing, what Rasmussen means is symbolic processing using symbols and bringing them together to create some larger model.
 
