@@ -38,21 +38,24 @@ that was commissioned related to the event and contains a whole bunch of
 technical details as well as a nice narrative. And that was the bulk of what
 we handed out.
 
-And then there were two commentaries. [The first commentary](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_thomas_h_pigford.htm) was from Thomas
-Pigford, who was a nuclear engineer and somebody who is a big proponent of
-nuclear safety, but also an engineering type as engineering kind of view. And
-[one from Bruce Babbitt](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_bruce_babbitt.htm), who was a former governor in the United States, who
-was also on the commission that looked at this.
+And then there were two commentaries. [The first
+commentary](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_thomas_h_pigford.htm)
+was from Thomas Pigford, who was a nuclear engineer and somebody who is a big
+proponent of nuclear safety, but also an engineering type as engineering kind of
+view. And [one from Bruce
+Babbitt](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_bruce_babbitt.htm),
+who was a former governor in the United States, who was also on the commission
+that looked at this.
 
 And then there were a couple of papers. One was [coping with complexity](https://orbit.dtu.dk/en/publications/coping-with-complexity),
 which was an old early report from RISO that covered some topics that were
-then of interest written by Jens rasmussen and Morten Lind. And Jens
+then of interest, written by Jens Rasmussen and Morten Lind. And Jens
 Rasmussen's paper [skills, rules, and knowledge](https://ieeexplore.ieee.org/abstract/document/6313160).
 
-I'm sorry that I sent out a copy of it that wasn't easily printed. It had, I
-sent out a copy of that, had a print thing on it. But if you haven't got the
-copy and if you haven't got a hard copy. Yeah. I have one here for you. We
-can send one out. Do you have a hard copy?
+I'm sorry that I sent out a copy of it that wasn't easily printed. I sent out a
+copy of that, had a print thing on it. But if you haven't got the copy and if
+you haven't got a hard copy. Yeah. I have one here for you. We can send one out.
+Do you have a hard copy?
 
 ## Why is Three Mile Island so important?
 
@@ -65,9 +68,9 @@ work studies and incident reporting studies and accident investigation studies
 that entire collection of materials, the way it's done the way it is interpreted
 really draws its source from Three Mile Island.
 
-Although human factors began earlier... really began in the late eighten
-hundreds with work on railroads and trying to understand safety on railroads. It
-took off as a kind of special discipline around the time of world war II, as
+Although human factors began earlier... it really began in the late eighten
+hundreds with work on railroads, and trying to understand safety on railroads. It
+took off as a kind of special discipline around the time of World War II, as
 people were trying to make weapons systems more effective and trying to figure
 out how to make guns and bombs and other things that were better and more easily
 controlled, and also trying to prevent plane crashes and aircraft that were
@@ -109,9 +112,9 @@ There were problems that occurred with other big mechanical failures, but they w
 
 There was a lot of discussion philosophically about what accidents meant and how they happened. This goes back all the way to 1900 or before. And people were talking about causes versus reasons and other kinds of theoretical ideas like this, but that was mostly in the form of philosophy. And wasn't really attached to any kind of empirical study.
 
-What happened at Three Mile Island was an accident that had actually happened before, which is one of the reasons why it was so distressing to people. Three Mile Island is actually an Island in Pennsylvania, in which there were two plants that were located together . On one side was a plant that had been up and running for a while called &quot;Three Mile Island, Unit One&quot;. And then there was a plant that had a power generator that had just started up about a few months earlier called &quot;Three Mile Island, Number Two&quot;. At the time of the accident, &quot;Three Mile Island, Number One&quot; was not running, it was down for refueling. And so the only plant that was really active was this &quot;Three Mile Island, Number Two&quot;.
+What happened at Three Mile Island was an accident that had actually happened before, which is one of the reasons why it was so distressing to people. Three Mile Island is actually an Island in Pennsylvania, in which there were two plants that were located together . On one side was a plant that had been up and running for a while called "Three Mile Island, Unit One". And then there was a plant that had a power generator that had just started up about a few months earlier called "Three Mile Island, Number Two". At the time of the accident, "Three Mile Island, Number One" was not running, it was down for refueling. And so the only plant that was really active was this "Three Mile Island, Number Two".
 
-And as you can tell from the Wikipedia story, what happened in &quot;Three Mile Island, Number Two&quot; was this long series of events that didn't seem to be causally related in the sense that one event didn't trigger another event directly, but they were functionally related because various systems in the power plant activated in response to these failures and generated the difficulty.
+And as you can tell from the Wikipedia story, what happened in "Three Mile Island, Number Two" was this long series of events that didn't seem to be causally related in the sense that one event didn't trigger another event directly, but they were functionally related because various systems in the power plant activated in response to these failures and generated the difficulty.
 
 What was happening was, in the non-nuclear portion of the plant, there was a device which was supposed to essentially purify the water that... I'm sorry, let me draw this differently.... there's a device, it was supposed to purify the water that came from the turbines after the steam had been used, the heat energy and the steam had been used, but came from the turbines that purified the water.
 
@@ -296,7 +299,7 @@ And it's from this. That all of the research that we now have on safety is essen
 
 If there had been a rupture of a true loss of cooling action, big, some pipe burst or something like that. It would be quite different. Now the fact that the plant failed in a way that required the active participation of people is much more troubling than that. The plant failed in some sort of mechanical way, because now it asks you the question.
 
-Why do we have operators in these things? What are operators there for? If what operators can do is essentially make the plant crash, what do we need the operators for? And it turns out that an exploration of this is what starts to take place starting in 1980 and 1981. And you get Rasmussen's report, the one that you saw, which comes out. And there's a version, there's an early collection of stuff in 1979. And then 1981, he comes out with the report and the report is titled &quot;_Coping with Complexity_&quot;. It's not error that he's focused on. He's focused on complexity because what Rasmussen, who is an engineer and has looked at these engineering kinds of things for a long time, realizes is that these guys have not so much made an error as the complexity of the world has defeated their abilities to understand what's going on. And he tries to understand how it is that people who are in this complex world go about this process of making a set of inferences about what the world is doing.
+Why do we have operators in these things? What are operators there for? If what operators can do is essentially make the plant crash, what do we need the operators for? And it turns out that an exploration of this is what starts to take place starting in 1980 and 1981. And you get Rasmussen's report, the one that you saw, which comes out. And there's a version, there's an early collection of stuff in 1979. And then 1981, he comes out with the report and the report is titled "_Coping with Complexity_". It's not error that he's focused on. He's focused on complexity because what Rasmussen, who is an engineer and has looked at these engineering kinds of things for a long time, realizes is that these guys have not so much made an error as the complexity of the world has defeated their abilities to understand what's going on. And he tries to understand how it is that people who are in this complex world go about this process of making a set of inferences about what the world is doing.
 
 And in particular, in sophisticated control worlds where the only thing that the operator has to look at, are the sets of panels that are in the control room, that is, you can't look at the reactor and see it, you're looking at indicators. In this kind of world, he begins to ask the question: What should this collection of information look like, in order that these people, when they're making inferences about this come to the right conclusion? That's really the question that he's trying to answer.
 
@@ -338,7 +341,7 @@ Another use would be as a sign, which is where this is actually measuring the pr
 
 And for these kinds of activities related to this, there can be a whole series of rules that lead to various kinds of activities that end up looking like motor stuff, turning knobs, controlling various things.
 
-The biggest mistake that Rasmussen ever made, perhaps the only one ,from my view, is that he called this &quot;rules&quot;. Because it encouraged people to imagine that the rules he's talking about are the rules we write down. That is, they think of this rules in this cognitive model as being rules, only turn on X when Y and Z are above... and so on, and so forth... a rule, a synthetic rule that we've made that we've written down, like a rule that you might read in an operating manual or a rule that you might read in, in a cookbook or something like that. He's not talking about rules, external to the people he's talking about rules that people have cognitively, that they can use as an immediate way to react to things.
+The biggest mistake that Rasmussen ever made, perhaps the only one ,from my view, is that he called this "rules". Because it encouraged people to imagine that the rules he's talking about are the rules we write down. That is, they think of this rules in this cognitive model as being rules, only turn on X when Y and Z are above... and so on, and so forth... a rule, a synthetic rule that we've made that we've written down, like a rule that you might read in an operating manual or a rule that you might read in, in a cookbook or something like that. He's not talking about rules, external to the people he's talking about rules that people have cognitively, that they can use as an immediate way to react to things.
 
 For example, in his example, he gives a place where you have a low and a high value of pressure. And the rule that you have is so long as the needle is between these two things, there's nothing wrong with that, and I don't need to do anything. But if it exceeds, if it goes past this on either side, then I must do something. And you can look at this and you might even make an adjustment to something without doing anything more than thinking about this needle and its location relative to the marks.
 
@@ -484,7 +487,7 @@ Everybody will cite _skills, rules, and knowledge_. At different times, you'll s
 
 What he writes about in here is essentially the agenda for the next ten years. And people go on and pursue each one of these activities and they do all the stuff that he is talking about in an effort to get a handle on this. He puts it all together in this particular setting, he describes what the problem is. He describes the underlying theory. He describes the obstacles and the important things that need to be done. He sets out the research program and people go off and do it.
 
-The _one_ thing that he got into trouble with is rules. Because when he used rules, people immediately thought, &quot;Ah... what I need to do is develop a good enough set of rules that has policies and procedures that nobody gets confused&quot;.
+The _one_ thing that he got into trouble with is rules. Because when he used rules, people immediately thought, "Ah... what I need to do is develop a good enough set of rules that has policies and procedures that nobody gets confused".
 
 But he wasn't talking about rules in the world; he wasn't talking about rules in the sense of the volumes of paper that we read. He was talking about human cognition inside this figure (gestures to whiteboard) . And he's talking about the rules that are built into people's own processing.
 
