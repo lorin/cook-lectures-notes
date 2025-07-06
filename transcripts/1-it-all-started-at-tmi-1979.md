@@ -464,55 +464,153 @@ being a dead end.
 It was also such a big event that it really wasn't possible to
 just say, "Oh, it was a case of human error and therefore we're done". If somebody
 drives a car the wrong way on the freeway, if somebody breaks a a component of
-an airplane.
+an airplane,  If somebody crashes a plane, these are all events, which are small
+enough that people can say, "Oh, that's a case of human error." And that's a
+reasonably satisfactory explanation. But in the case of Three Mile island, it
+wasn't an adequate explanation. It was too big and event, And the plant had been
+too carefully designed. And the people in fact were not a bunch of sort of low
+level, not very smart people. They were the best at the U S Navy had to offer
+these people were all former submarine nuclear reactor engineers who had years
+and years of experience and lots of training there. All the arguments that these
+people needed to be backed up by stronger people, or they needed to have more
+training or all those other things were they didn't th those explanations didn't
+sound very good.  They didn't explain how it was that these people could have
+been confused about what was actually happening in the plant. 
 
-If somebody crashes a plane, these are all events, which are small enough that people can say, Oh, that's a case of human error. And that's a reasonably satisfactory explanation. But in the case of three mile Island, it wasn't an adequate explanation. It was too big and event. And the plant had been too carefully designed and the people in fact were not a bunch of.
+This turns out to be the watershed from here everything starts right here in
+March of 1979.  All of what we now call safety in complex systems, all of what
+we now do in cognitive work studies is derived from this event. And the reason
+is largely because this idea that human error was **the cause** became itself
+something that needed to be studied and it generated a whole series of new
+researches and new quests and new examinations of the topic of error itself. The
+question would became, what does it mean to make an error in this setting? What
+is an error? These guys actually believe that they were doing the right things
+with the plant, but in fact they had a model of what the plant was doing
+that was incorrect. They had the wrong model.
 
-Sort of low level, not very smart people. They were the best at the U S Navy had to offer these people were all former submarine, nuclear reactor engineers who had years and years of experience and lots of training there, all the arguments that these people needed to be backed up by stronger people, or they needed to have more training or all those other things were they didn't th those explanations didn't sound very good.
+In fact, there were multiple different kinds of models that one could have had
+about what's happening in the plant. But the one that they should have had that
+everybody understands, a significant loss-of-cooling accident, was not the one
+that they had in their minds.  They didn't get this, they got something else. 
 
-They didn't explain how it was that these people could have been confused about what was actually happening in the plant. This turns out to be the watershed from here everything starts right here in March of 1979.
+And the thing that perturbed people and made them very upset was there, were
+there seem to be multiple opportunities for people to have gotten the right
+diagnosis. There were lots of opportunities during this few hours at the
+beginning of the day, starting at 4 AM where people could have, under other
+circumstances, realized that they were having a loss of cooling accident.
+In fact, nobody did, they all became focused or fixated on a different kind of
+an accident, some sort of weird accident with essentially two much water in the
+core, too much water was present: this is what they were thinking. And in fact,
+it's not just one operator, but many of the operators had this view that the
+world was a certain way when in fact it was another way. And this later on
+became, came to be called *a fixation error*.
 
-All of what we now call safety in complex systems, all of what we now do in cognitive work studies is derived from this event. And the reason is largely because this idea that human error was **the cause **became itself, something that needed to be studied and it generated a whole series of new researches and new quests and new examinations of the topic of error itself. The question would became, what does it mean to make an error in this setting? What is an error? These guys actually believe that they were doing the right things with the plant, but that in fact they had a model of what the plant was doing that was incorrect. They had the wrong model.
+We now understand a little more about this but what happened in Three Mile
+Island in those first few hours is everybody became fixated on one collection of
+data and one particular set of hypotheses about how the plant was behaving. And
+they could not, in some sense, see, we're not talking about seeing the visual
+sense, but see in the sense of understanding, they could not see that this was
+a better fit for what they were examining in terms of data than this. 
 
-In fact, there were multiple different kinds of models that there that one could have had about what's happening in the plant. But the one that they should have had that everybody understands, a significant loss of cooling accident, was not the one that they had in their minds.
+This is a pretty profound thing because it turns out that there are in the
+evolution of the accident. There are people who come to the scene and
+immediately recognize problems. One of the first things that gets recognized is
+that there's another valve out here called a block valve, which was in fact
+open. And you're supposed to close the block valve when you have this kind of
+emergency. And they went and closed the block valve, which stopped the flow out
+of this. And another one realized that in fact, they needed high pressure water
+and turned on the high pressure water, but it was turned off shortly afterwards.
 
-They didn't get this, they got something else. And the thing that perturbed people and made them very upset was there, were there seem to be multiple opportunities for people to have gotten the right diagnosis. There were lots of opportunities during this few hours at the beginning of the day, starting at 4:00 AM where people could have under other circumstances realized that they were having a loss of cooling accident.
+But closing this block valve may have, in fact, kept much of the damage to the
+core from actually occurring. Because once you closed that, now the system
+became closed again. And it was possible to look for cooling. Much of their
+energy was spent trying to start up these various pumps. All the pumps had been
+closed down, had been turned off and now they, the pumps and the lines
+themselves were filled with bubbles and the bubbles things from getting started,
+creating an airlock like you can sometimes have, if you've ever had this
+problem, trying to get the water flowing in your kitchen. Sometimes you'll have
+an air lock that doesn't let that water flow. And they had airlocks and a number
+of these things. We couldn't find a way to get the energy out of the plant.
 
-In fact, nobody did, they all became focused or fixated on a different kind of an accident. Some sort of weird accident with essentially two much water in the core, too much water was present. This is what they were thinking. And in fact, it's not just one operator, but many of the operators had this view that the world was a certain way.
+The new research and new examinations came in a variety of different ways.  But
+the key things for us is that the people who were involved are the ones who are
+now thought of as the fathers of the field that we're working in. So in Denmark,
+you had Rasmussen and Lind. In the U.S. you had Woods and people like John
+Senders, Neville Moray. I'll say other countries other than Denmark. And in
+England you had folks like James Reason. And again, in the U.S. you had people
+from other areas like sociology, like Charles Perrow. But all of these people
+started looking closely at the issue of error as a cause and understanding how
+people made these kinds of diagnosis and could be wrong about them, as a result
+of Three Mile Island.  It's not before that, it all happens then. 
 
-When in fact it was another way. And this later on became, came to be called a fixation error.
+And in fact there is a number of, there are a number of pieces of paper that
+comes out of a number of reports, some things, but they're in this kind of
+report form, like the thing that you saw, which is that, that it's an
+internal report designed for internal circulation.  It's not something that's
+published in a journal. That's why I included this one from 1981, the Riso
+report, because these guys are all talking with each other and writing things
+back and forth and having various discussions about. What's really going on
+here. What's important. How is it that people can sometimes have this?
 
-We now understand a little more about this but what happened in three mile Island in those first few hours is everybody became fixated on one collection of data and one particular set of hypotheses about how the plant was behaving. And they could not, in some sense, see, we're not talking about seeing the visual sense, but see, in the sense of understanding, they could not see that this was a better fit for what they were examining in terms of data.
+It's pretty clear that this is not one of those human factors, events like
+lowering the landing gear. This isn't a matter of getting the knobs or the
+dials correct. This is a problem with high-level understandings about what the
+plant is doing and what should be happening. It's at a, much, much
+bigger level. And it's from this. That all of the research that we now have on
+safety is essentially derived. Anything there is basically in the world of
+safety, pre TMI, and post TMI, but TMI is the critical event. It's where
+everything comes together because the event is so large and so difficult to
+explain. If the plant had failed in some mechanic way, if there had been a
+rupture of a true loss of cooling action, big, some pipe burst or something like
+that. It would be quite different now. The fact that the plant failed in a way
+that required the active participation of people is much more troubling than
+that the plant failed in some sort of mechanical way. Because now it asks you
+the question: "Why do we have operators in these things? What are operators
+there for?" If what operators can do is essentially make the plant crash, what
+do we need the operators for? And it turns out that an exploration of this is
+what starts to take place starting in 1980 and 1981. 
 
-Than this. This is a pretty profound thing because it turns out that there are in the evolution of the accident. There are people who come to the scene and immediately recognize problems. One of the first things that gets recognized is that there's another valve out here called a block valve, which was in fact open.
+And you get Rasmussen's report, the one that you saw, which comes out. And
+there's a version, there's an early collection of stuff in 1979. And then 1981,
+he comes out with the report and the report is titled "_Coping with
+Complexity_". It's not error that he's focused on. He's focused on complexity
+because what Rasmussen, who is an engineer and has looked at these engineering
+kinds of things for a long time, realizes, is that these guys have not so much
+made an error as the complexity of the world has defeated their abilities to
+understand what's going on. And he tries to understand how it is that people who
+are in this complex world go about this process of making a set of inferences
+about what the world is doing.
 
-And they you're supposed to close the block valve when you have this kind of emergency. And they went and closed the block valve, which stopped the flow out of this. And another one realized that in fact, they needed high pressure water and turned on the high pressure water, but it was turned off shortly afterwards.
+And in particular, in sophisticated control worlds where the only thing that the
+operator has to look at, are the sets of panels that are in the control room,
+that is, you can't look at the reactor and see it, you're looking at indicators.
+In this kind of world, he begins to ask the question: What should this
+collection of information look like, in order that these people, when they're
+making inferences about this come to the right conclusion? That's really the
+question that he's trying to answer.
 
-But closing this block valve may have in fact kept much of the damage to the core from actually occurring. Because once you closed that, now the system became closed again. And it was possible to. To look for cooling, much of their energy was spent trying to start up. These various pumps, all the pumps had been closed down, had been turned off and now they, the pumps and the lines themselves were filled with bubbles and the bubbles things from getting started, creating an airlock like you can sometimes have, if you've ever had this problem, trying to get the water flowing in your kitchen.
+And that's where skills, rules, and knowledge comes from. Skills, rules, and
+knowledge is a very specific focused paper, the goal of which is to direct
+attention at this particular problem, which is that the layout of information in
+the plant and the presentation of the information to the operators is in fact
+perfect if the plant is running perfectly. And completely useless, and in fact
+misleading if the plant begins to have a major transient. All the alarms are
+going off. In fact, the alarm that says that there's water, there's fluid
+flowing in this and that they're going to overflow the tank for this, goes off.
+But because the audible alarm has one sound for all alarms and you reset that
+alarm sound by pressing the reset button, it's just one of hundreds of audible
+alarms that are triggering during that period of time. So they don't really
+realize what they're resetting. They're just trying to get rid of all the noise
+because there's so many lights flashing and so many things blinking. 
+And in fact this is still hidden from them. They don't actually see, that is,
+understand what's going on until later on in the day. 
 
-Sometimes you'll have an air lock that doesn't let that water flow. And they had airlocks and a number of these things. We couldn't find a way to get the. The energy out of the plant, the new research and new examinations came in a variety of different ways.
-
-But the key things for us is that the people who were involved are the ones who are now thought of as the fathers of the field that we're working in. So in Denmark, you had Rasmussen and Lind. In the U.S. you had Woods and people like John Senders, Neville Moray. I'll say other countries other than Denmark. And in England you had folks like James reason. And again, in the U S you had people from other areas like sociology, like Charles Perrow. Yeah. But all of these people started looking closely at the issue of error as a cause and understanding how people made these kinds of diagnosis and could be wrong about them, as a result of Three Mile Island.
-
-It's not before that it all happens now. And in fact there is a number of, there are a number of pieces of paper that comes out of a number of reports, some things, but they're in this kind of report for them. Like the thing that you saw, which is that, that it's an internal report designed for internal circulation.
-
-It's not something that's published in a journal. That's why I included this one from 1981, the resell report, because these guys are all talking with each other and writing things back and forth and having various discussions about. What's really going on here. What's important. How is it that people can sometimes have this?
-
-Not this it's pretty clear that this is not one of those human factors, events like lowering the landing gear. This isn't a matter of getting the knobs or the dials, correct. This is a problem with high level understandings about what the plant is doing and what should be happening. It's at a, it's at a much, much bigger level.
-
-And it's from this. That all of the research that we now have on safety is essentially drive anything. There, there is basically in the world of safety, pre TMI, and post TMI, but TMI is the critical event. It's where everything comes together because the event is so large and so difficult to explain if the plant had failed in some mechanic ethical way.
-
-If there had been a rupture of a true loss of cooling action, big, some pipe burst or something like that. It would be quite different. Now the fact that the plant failed in a way that required the active participation of people is much more troubling than that. The plant failed in some sort of mechanical way, because now it asks you the question.
-
-Why do we have operators in these things? What are operators there for? If what operators can do is essentially make the plant crash, what do we need the operators for? And it turns out that an exploration of this is what starts to take place starting in 1980 and 1981. And you get Rasmussen's report, the one that you saw, which comes out. And there's a version, there's an early collection of stuff in 1979. And then 1981, he comes out with the report and the report is titled "_Coping with Complexity_". It's not error that he's focused on. He's focused on complexity because what Rasmussen, who is an engineer and has looked at these engineering kinds of things for a long time, realizes is that these guys have not so much made an error as the complexity of the world has defeated their abilities to understand what's going on. And he tries to understand how it is that people who are in this complex world go about this process of making a set of inferences about what the world is doing.
-
-And in particular, in sophisticated control worlds where the only thing that the operator has to look at, are the sets of panels that are in the control room, that is, you can't look at the reactor and see it, you're looking at indicators. In this kind of world, he begins to ask the question: What should this collection of information look like, in order that these people, when they're making inferences about this come to the right conclusion? That's really the question that he's trying to answer.
-
-And that's where skills, rules, and knowledge comes from. Skills, rules, and knowledge is a very specific focused paper, the goal of which is to direct attention at this particular problem, which is that the layout of information in the plant and the presentation of the information to the operators is in fact perfect if the plant is running perfectly. And completely useless, and in fact misleading, if the plant begins to have a major transient. All the alarms are going off. In fact, the alarm that says that there's water, there's fluid flowing in this and that they're going to overflow the tank for this, goes off. But because the audible alarm has one sound for all alarms and you reset that alarm sound by pressing the reset button, it's just one of hundreds of audible alarms that are triggering during that period of time. So they don't really realize what they're resetting. They're just trying to get rid of all the noise because there's so many lights flashing and so many things blinking. And in fact this is still hidden from them.
-
-They don't actually see, that is, understand what's going on until later on in the day. By noon of the next day, they have understood what's happened, although they don't really communicate it very well, but they've understood that they'd had a core problem and the plant is essentially lost after that.
-
-Although there's lots of other stuff about hydrogen bubbles and people being evacuated and stuff. Those are all sort of secondary kinds of features. They're not critical to our understanding here.
+By noon of the next day, they have understood what's happened, although they
+don't really communicate it very well, but they've understood that they'd had a
+core problem and the plant is essentially lost after that. Although there's lots
+of other stuff about hydrogen bubbles and people being evacuated and stuff.
+Those are all sort of secondary kinds of features. They're not critical to our
+understanding here.
 
 This fixation idea, I think is a really important one because it's the fixation that becomes the real problem in understanding. It's not the case that one person was badly trained didn't understand this, he was there all by himself, working at night and somehow screwed up. Everybody who's there is caught in the same wrong framework and therefore it's a much more robust phenomenon that's happening. It's not just because of one person.
 
