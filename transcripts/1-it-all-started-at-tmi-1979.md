@@ -337,59 +337,134 @@ be stuck open. But the only indicator that they had was this light, which
 measures the electricity going through the solenoid, not the actual position
 of the valve.
 
-There was some indication that the por V was open, but it was actually on. Panels on the, on a panel that was behind the main display. So a person standing out here looking at the main display cannot see these indicators. But if you look at these indicators, what you would see is that the temperature is, and the space beyond in the piping, beyond the pur V was actually very high, which means that hot water, hot steam is going through that.
+There was some indication that the PORV was open, but it was actually on a panel
+that was behind the main display. So a person standing out here looking at the
+main display cannot see these indicators. But if you look at these indicators,
+what you would see is that the temperature n the piping beyond the PORV was
+actually very high, which means that hot water, hot steam is going through that.
 
-That is there are, there is information in the plant while the accident is happening, that someone could have looked at and use to make a diagnosis about why the plant was in the state, that it was
+That is, there is information in the plant while the accident is happening, that
+someone could have looked at and use to make a diagnosis about why the plant was
+in the state that it was. 
 
-trying to these guys who run these things are all nuclear engineers from the U S Navy. So they're very used to following procedures and doing things by the book. They're very used to using their specific trained routines to do things. They've got a lots and lots of training. They're this close to an elite group, as you can have.
+These guys who run these things are all nuclear engineers from the US Navy, so
+they're very used to following procedures and doing things by the book. They're
+very used to using their specific trained routines to do things. They've got 
+lots and lots of training. They're as close to an elite group, as you can
+have.
 
-And the training that these guys had
+And the training that these guys had told them that... One of the things that
+they were concerned about is if the water, the reactor gets full of water
+and so does the pressurizer above it. If these things are both filled with
+water, the system has done something called "go solid": it's gone solid. 
 
-told them, that was one of the things that they were concerned about is if the water, the reactor goes, gets full of water. And so does the pressurizer above it? If these things are both filled with water, the system has done something called go solid. It's gone solid. Usually there's a space in the pressurizer where there is a bunch of steam up above the water and the steam and the water kind of equilibrium.
+Usually there's a space in the pressurizer where there is a bunch of steam up
+above the water and the steam and the water kind of equilibrium.  As the
+temperature goes up, there's more pressure from the steam. It raises the
+pressure and things enforces the boiling, the water, not to boil. And as the
+temperature goes down, the size of the steam will, will. The amount of water in
+here will shrink and the size of the steam bubble increase. The steam bubble
+acts as a kind  as a kind of resiliency buffer, a space in there that can be
+expandable in and out to allow this system to work.
 
-As the temperature goes up, there's more pressure from the steam. It raises the pressure and things enforces the boiling, the water, not to boil. And as the temperature goes down, the size of the steam will, will. The amount of water in here will shrink. And the size of the steam bubble increase the steam acts as a kind of the steam bubble acts as a kind of resiliency, buffer a space in there that can be expandable in and out to allow this system to work.
+But if you ever fill this up, You have nothing. You now have no, no buffer in
+there. And the thing begins to react very violently. The problem of course, was
+that with this, you should have very high pressures. And they were very
+concerned about this condition. But in fact, the pressures that were being
+measured were actually quite low and they struggled for a long time... hours... to
+figure out how they could have low pressures, being afraid of going solid,
+apparently have the PORV valve closed, and in fact, inferred that the reactor
+had lots of water in it, that the problem was not that they had too little
+water, but that they had too much. And as a consequence, they turned off the
+automatic pumps whose function it is to drive water into the reactor. 
 
-But if you ever fill this up, You have nothing. You now have no, no buffer in there. And the thing begins to react very violently. The problem of course, was that with this, you should have very high pressure
+There's an emergency system that is automatically supposed to turn on the pumps
+and drive water into the reactor. And that system actually triggered, but they
+turned it off because they believed that the reactor was in fact too full,
+rather than too empty. This also was a problem because these pumps had been known
+to trigger automatically without having anything going on. So the pumps were
+thought to be triggering in this kind of sporadic way, rather than for a good
+reason.
 
-and they were very concerned about this condition. But in fact, the pressures that were being measured were actually quite low and they struggled for a long time hours to figure out how they could have low pressures. Being afraid of going shallot apparently have the por V valve closed.
+It's clear in retrospect that if the operators had done absolutely nothing, if
+they had not touched any of the controls of the power plant after the turbine
+tripped that the plant would have shut itself down safely. The high
+pressure injection of water and all these different sources would have kept the
+core covered.  It would have had flooding. They would have had some stuff go
+into the reactor containment building. There was all sorts of problems that
+would have occurred, but there would have been no great catastrophe. The reactor
+would have shut itself down. Essentially all the backup safety systems would
+have kicked in, They would have provided the coverage that was needed and that
+the accident would have essentially not happened in the sense that the reactor
+core wouldn't have been uncovered and therefore melted. 
 
-And in fact, inferred that the reactor had lots of water in it. That the problem was not that they had too little water, but that they had too much. And as a consequence, they turned off the automatic pumps whose function it is. To drive water into the reactor. There's an emergency system that is automatically supposed to turn on the pumps and drive water into the reactor.
+Once you melt the reactor core, the plant is a total loss,
 
-And that system actually triggered, but they turned it off because they believed that the reactor was in fact too full, rather than to empty. This also was a problem because these pumps had been known to trigger automatically without having anything going on. So the pumps were thought to be triggering in this kind of sporadic way, rather than for a good reason.
+So they could have conceivably had a plant that was functional and working at
+the end of this, if they only hadn't touched the controls. 
 
-It's clear in retrospect that if the operators had done absolutely nothing, if they had not touched any of the controls of the power plant after the turbine tripped that the plant would have shut itself down safe. It would the high pressure injection of water and all these different sources would have kept the core covered.
+In 1979, after three mile Island, the big question was, why did the operators
+not understand?  Why didn't they see what was going on with the plant? What was
+the problem with their mental processes that led them to believe that something
+was happening in the plant other than a loss-of-cooling accident? Now, this
+question was answered by saying, "well, this is a case of human error". 
 
-It would have had flooding. They would have had some stuff go into the reactor containment building. There was all sorts of problems that would have occurred, but there would have been no great catastrophe. The reactor would have shut itself down essentially. All the backup safety systems would have kicked in.
+If you read the report, particularly Pigford's commentaries, what he says is,
+"Look, the plant worked fine. The systems work fine. No radiation got released.
+It wasn't really a problem. It would have been great if people hadn't screwed it
+up." Basically he says, "Look, you've got these operators. They aren't very
+well-trained. They don't know what's going on. They jump to conclusions. They
+mishandle the plant and they drive it into the ground. It's impossible to make
+systems that are safe in the sense that no one can drive them into the ground.
+The automated system worked fine, but you have these operators performing
+something that wasn't necessary. And in fact, made the plant, they drove the
+plant into a disaster. It didn't happen on its own. It happened because they
+were willing to work with this and play with it in a way that they
+shouldn't have, they should have just sat back with their arms folded, let the
+automated systems take care of it and everything would have been fine."
 
-They would have provided the coverage that was needed and that the accident would have essentially not happened in the sense that the reactor core wouldn't have been uncovered and therefore melted. Once you melt the reactor core, the plant is a total loss,
+This is a model. And that's what Pigford says. This is basically if you're a
+plant operator, you should just sit back and not touch any of the knobs or
+dials, let everything happen, it's built to be safe. It will be safe. 
 
-so they could have conceivably had a plant that was functional and working at the end of this, if they only hadn't touched the controls. And so after three mile Island
+There are a couple of problems with this particular view of describing this as
+operator error and the problems come up when you realize that it took months and
+months to figure out what had actually happened. That is, although it's clear
+that the data was present at the time that might have led you to conclude what
+had happened, nobody really knew what had happened immediately afterwards. It
+took them a really long time to figure it out. They had to go through lots and
+lots of traces, lots and lots of data. In fact, the only reason that they were
+able to figure it out was because during the accident, in the control room,
+there were a set of recorders that had been installed by the manufacturer of
+the reactor, Babcock Wilcox, which were there just to record its operation
+during startup and if we're getting going. This is a new plant and they were
+just taking this extra data to see if they could see that everything was working
+right without this set of recordings that were made, probably no one would be
+able to figure out what had actually happened to the plant. 
 
-in 1979, after three mile Island, the big question was, why did the operators?
+By the way, none of those recordings were available to the operators at the
+time.  It was a black box away somewhere. So they didn't have that. They had to
+figure out they would have had to go around and look at these sorts of things.
+Hidden displays and indicators understand that some of the indications that they
+were getting were in fact incorrect in the sense that they indicated something
+that was not true. And they would have had to put that all together in order to
+be able to form a correct view of what was happening in the power plant, inside
+the reactor, and take the right sorts of actions, which would have been to let
+the automated systems continue to pour water in there and keep the reactor cool.
 
-No, I don't understand.
+This is a really big event. It's the biggest event in nuclear history in the
+United States. It causes the end of the nuclear industry in the United States.
+Although some people will argue that that's not the case. In fact, it basically
+destroyed the industry. It, after that, we didn't have any new plants
+commissioned and designed in the U.S. And nuclear power became essentially a
+dead object. All the activities related to developing new power plants went to
+France and to Japan. But there were no more activities in the U.S. It ended up
+being a dead end.
 
-Why didn't they see what was going on with the plant? What was the problem with their mental processes that led them to believe that something was happening in the plant other than a loss of cooling accident? Now, this question was answered by saying this is a case of human error. If you read the report, it is.
-
-Particularly Pigford's commentaries, what he says is, look, the plant worked fine. The systems work fine. No radiation got released. It wasn't really a problem. It would have been great if people hadn't screwed it up, basically he says, look, you've got these operators. They aren't very well-trained. They don't know what's going on. They jump to conclusions. They mishandle the plant and they drive it into the ground. It's impossible to make systems that are safe in the sense that no one can drive them into the ground. The automated system worked fine, but you have these operators performing something that wasn't necessary.
-
-And in fact, made the plant, they drove the plant into a disaster. It didn't happen on its own. It happened because they were willing to work with it. With this and play with it in a way that they shouldn't have, they should have just sat back with their arms, folded, let the automated systems take care of it and everything would have been fine.
-
-This is a model. And that's what Pigford says. This is basically if you're a, if you're a plant operator, you should just sit back and not touch any of the knobs or dials. Let everything happen. It's built to be safe. It will be safe. There are a couple of problems with this particular view of describing this as operator error and the problems come up.
-
-When you realize that it took months and months to figure out what had actually happened. That is although it's clear that the data was present at the time that might have led you to conclude what had happened. Nobody really knew what had happened immediately afterwards. It took them a really long time to figure it out.
-
-They had to go through lots and lots of traces, lots and lots of data. In fact, the only reason that they were able to figure it out was because during the accident, in the control room, there were a set of recorders that had been installed. By the manufacturer of the plant of the reactor Babcock Wilcox, which were there just to record its operation during startup.
-
-And if we're getting going, this is a new plant and they were just taking this extra data to see if they could see that everything was working right without this set of recordings that were made, probably no one would be able to figure out what had actually happened to the plant, by the way, none of those recordings were available to the operators at the time.
-
-It was a black box away somewhere. So they didn't have that. They had to figure out they would have had to go around and look at these sorts of things. Hidden displays and indicators understand that some of the indications that they were getting were in fact incorrect in the sense that they indicated something that was not true.
-
-And they would have had to put that all together in order to be able to form a correct view of what was happening in the power plant inside the reactor and take the right sorts of actions, which would have been to let the automated systems continue. I need to pour water in there and keep the reactor cool.
-
-This is a really big event. It's the biggest event in nuclear history in the United States. It causes the end of the nuclear industry in the United States. Although some people will argue that's not the case. In fact, it basically destroyed the industry. It, after that, we didn't have any new plants commissioned and designed in the U S and nuclear power became essentially a dead object.
-
-All the activities related to developing new power plants. Went to France and to Japan. But there were no more activities in the U S it ended up being a dead end. It was also such a big event that it really wasn't possible to just say, Oh, it was a case of human error and therefore we're done, if somebody drives a car the wrong way on the freeway, if somebody breaks a a component of an airplane.
+It was also such a big event that it really wasn't possible to
+just say, "Oh, it was a case of human error and therefore we're done". If somebody
+drives a car the wrong way on the freeway, if somebody breaks a a component of
+an airplane.
 
 If somebody crashes a plane, these are all events, which are small enough that people can say, Oh, that's a case of human error. And that's a reasonably satisfactory explanation. But in the case of three mile Island, it wasn't an adequate explanation. It was too big and event. And the plant had been too carefully designed and the people in fact were not a bunch of.
 
