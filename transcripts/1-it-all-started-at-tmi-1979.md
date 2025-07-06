@@ -112,17 +112,55 @@ There were problems that occurred with other big mechanical failures, but they w
 
 There was a lot of discussion philosophically about what accidents meant and how they happened. This goes back all the way to 1900 or before. And people were talking about causes versus reasons and other kinds of theoretical ideas like this, but that was mostly in the form of philosophy. And wasn't really attached to any kind of empirical study.
 
-What happened at Three Mile Island was an accident that had actually happened before, which is one of the reasons why it was so distressing to people. Three Mile Island is actually an Island in Pennsylvania, in which there were two plants that were located together . On one side was a plant that had been up and running for a while called "Three Mile Island, Unit One". And then there was a plant that had a power generator that had just started up about a few months earlier called "Three Mile Island, Number Two". At the time of the accident, "Three Mile Island, Number One" was not running, it was down for refueling. And so the only plant that was really active was this "Three Mile Island, Number Two".
+What happened at Three Mile Island was an accident that had actually happened
+before, which is one of the reasons why it was so distressing to people. Three
+Mile Island is actually an Island in Pennsylvania, in which there were two
+plants that were located together . On one side was a plant that had been up and
+running for a while called "Three Mile Island, Unit One". And then there was a
+plant that had a power generator that had just started up about a few months
+earlier called "Three Mile Island, Number Two". At the time of the accident,
+"Three Mile Island, Number One" was not running, it was down for refueling. And
+so the only plant that was really active was this "Three Mile Island, Number
+Two".
 
-And as you can tell from the Wikipedia story, what happened in "Three Mile Island, Number Two" was this long series of events that didn't seem to be causally related in the sense that one event didn't trigger another event directly, but they were functionally related because various systems in the power plant activated in response to these failures and generated the difficulty.
+And as you can tell from the Wikipedia story, what happened in "Three Mile
+Island, Number Two" was this long series of events that didn't seem to be
+causally related in the sense that one event didn't trigger another event
+directly. But they were *functionally* related because various systems in the
+power plant activated in response to these failures and generated the
+difficulty.
 
-What was happening was, in the non-nuclear portion of the plant, there was a device which was supposed to essentially purify the water that... I'm sorry, let me draw this differently.... there's a device, it was supposed to purify the water that came from the turbines after the steam had been used, the heat energy and the steam had been used, but came from the turbines that purified the water.
+What was happening was, in the non-nuclear portion of the plant, there was a
+device which was supposed to essentially purify the water that... I'm sorry, let
+me draw this differently.... there's a device, it was supposed to purify the
+water that came from the turbines after the steam had been used, the heat energy
+and the steam had been used, but came from the turbines that purified the water.
 
-When they had some problems with this device, they were trying to fix it in the way that they normally fix things. And they did some stuff here that caused essentially a transient to occur in this that led to an emergency shutdown of the generating turbine. The generating turbine automatically tripped; this is the power generating thing that makes electricity.
+When they had some problems with this device, they were trying to fix it in the
+way that they normally fix things. And they did some stuff here that caused
+essentially a transient to occur in this that led to an emergency shutdown of
+the generating turbine. 
 
-This failed, because, or tripped... was actually like tripping a circuit breaker. When the condenser filtered process went down and it shut the turbine off. With the turbine off, there was no way to take energy out of the system and the nuclear reactor, which was over here was moving hot fluid, hot steam through a steam generator and the, in the steam generator, there was, there were other related pipes that were taking that hot energy. Got a little steam generator here. We're taking the energy inside the steam generator. The steam from the nuclear power plant was passing around an exchanger, which was converting energy into steam in this other circuit. So there are two complete separate circuits and the two circuits are kept separate mechanically.
+The generating turbine automatically tripped; this is
+the power-generating thing that makes electricity. This failed, because, or
+tripped... was actually like tripping a circuit breaker. When the condenser
+filtered process went down and it shut the turbine off. With the turbine off,
+there was no way to take energy out of the system. And the nuclear reactor, which
+was over here, was moving hot fluid... hot steam, through a steam generator and the,
+in the steam generator, there was, there were other related pipes that were
+taking that hot energy. Got a little steam generator here. We're taking the
+energy inside the steam generator. The steam from the nuclear power plant was
+passing around an exchanger, which was converting energy into steam in this
+other circuit. So there are two complete separate circuits and the two circuits
+are kept separate mechanically.
 
-And the reason is that this circuit here with the nuclear power plant in it is with the nuclear reactor. It is inside the containment vessel and therefore protected from various kinds of leakages out to the outside. The only place where anything that could possibly become radioactive comes in contact with that is in this steam generator. And the steam generator is usually flowing cold water in, and it's being heated up by the hot steam from the from the nuclear power reactor.
+And the reason is that this circuit here with the nuclear power plant in it
+is... with the nuclear reactor in it, is inside the containment vessel and
+therefore protected from various kinds of leakages out to the outside. The only
+place where anything that could possibly become radioactive comes in contact
+with that is in this steam generator. And the steam generator is usually flowing
+cold water in, and it's being heated up by the hot steam from the nuclear power
+reactor.
 
 And that hot steam is converting the cold water from the generator side into steam, which then drives the turbine. So if you think about it, and in terms of energy, there's energy being created here, or being released here in the form of lots and lots of heat, and that heat is being transferred here out to the heat that is carried off and then used by the turbine.
 
