@@ -33,7 +33,7 @@ implications might be.
 
 The handouts for this seminar were some materials on Three Mile Island,
 including a pointer to a Wikipedia article, which isn't bad. And also a
-portion of what's come to be known as the Rogovin report, which is a report
+portion of what's come to be known as the [Rogovin report](https://tmi2kml.inl.gov/Documents/2b-Rogovin/NUREGCR-1250V1,%20TMI,%20A%20Report%20To%20The%20Commissioners%20And%20To%20The%20Public%20(Rogovin%20Report)%20(1980-01).pdf), which is a report
 that was commissioned related to the event and contains a whole bunch of
 technical details as well as a nice narrative. And that was the bulk of what
 we handed out.
@@ -92,15 +92,18 @@ actually affecting. That's the sort of classic human factors thing. If you're
 asking for a model, what is human factors? Most people would say, ah, that's the
 example we would look to.
 
-What happened over the next 20 years or so, is that people started to build very
+What happened over the next twenty years or so is that people started to build very
 large and very complex systems that involved extraordinary amounts of energy.
-This was, there were power plant failures and problems with power plants,
+There were power plant failures and problems with power plants,
 particularly steam engines blowing up, both moving steam engines and stationary
 ones. And that happened from the early eighteen hundreds all the way through the
-nineteen hundreds and the biggest kind of industrial accident that you could have
+nineteen hundreds; and the biggest kind of industrial accident that you could have
 short of a bridge collapsing was to have your steam boiler explode.
-
-And this was not an uncommon event. There are lots and lots of spectacular wrecks that occurred and buildings that were damaged and so forth. But by the 1930s or so, the control of these things was pretty well understood. Their mechanics and physics were well known and steam boiler explosions became relatively infrequent.
+And this was not an uncommon event. There are lots and lots of spectacular
+wrecks that occurred and buildings that were damaged and so forth. But by the
+1930s or so, the control of these things was pretty well understood. Their
+mechanics and physics were well known and steam boiler explosions became
+relatively infrequent.
 
 There were problems that occurred with other big mechanical failures, but they were purely mechanical failures, a bridge falling down, or a tunnel collapsing or things like that. That didn't seem to be very much involved with human operations at the time. So the operator related accidents that happened before three mile Island were scattered and relatively straightforward, some were caused by overt problems with human factors, but those were pretty straightforward and easy to understand.
 
