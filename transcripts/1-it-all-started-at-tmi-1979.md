@@ -612,25 +612,74 @@ of other stuff about hydrogen bubbles and people being evacuated and stuff.
 Those are all sort of secondary kinds of features. They're not critical to our
 understanding here.
 
-This fixation idea, I think is a really important one because it's the fixation that becomes the real problem in understanding. It's not the case that one person was badly trained didn't understand this, he was there all by himself, working at night and somehow screwed up. Everybody who's there is caught in the same wrong framework and therefore it's a much more robust phenomenon that's happening. It's not just because of one person.
+This fixation idea, I think is a really important one because it's the fixation
+that becomes the real problem in understanding. It's not the case that one
+person who was badly trained didn't understand this, he was there all by himself,
+working at night and somehow screwed up. Everybody who's there is caught in the
+*same* wrong framework and therefore it's a much more robust phenomenon that's
+happening. It's not just because of one person.
 
-By the way , in the report there on page nine there's a discussion there about the Navy technicians and they're working and he says , _There is always a sense of urgency to a Navy technician's watch, a sense that this reactor is powering a ship of war on a mission, that he is accountable for his part, however small a fragment, of the total operation, and that if he is stumped, his superiors are close at hand, and they know the equipment better than he does._
+By the way, in the report there on page nine there's a discussion there about
+the Navy technicians and they're working and he says , _There is always a sense
+of urgency to a Navy technician's watch, a sense that this reactor is powering a
+ship of war on a mission, that he is accountable for his part, however small a
+fragment, of the total operation, and that if he is stumped, his superiors are
+close at hand, and they know the equipment better than he does._
 
-This is pretty much the beginning of what we will later call safety culture. The distinction between the world in which the nuclear reactor operators in the Navy work and the world of large power generation is one between the presence and the absence of what we think of as a safety culture.
+This is pretty much the beginning of what we will later call safety culture. The
+distinction between the world in which the nuclear reactor operators in the Navy
+work and the world of large power generation is one between the presence and the
+absence of what we think of as a safety culture.
 
-These are people who brought their skills from the Navy, but they didn't enter a world of culture. They entered a world of bureaucracy and regulations or people blaming each other for various things and failing to do work on safety and so forth. And so they're stuck. They're outside of their world. And for this particular transient, they're at a great disadvantage.
+These are people who brought their skills from the Navy, but they didn't enter a
+world of culture. They entered a world of bureaucracy and regulations or people
+blaming each other for various things and failing to do work on safety and so
+forth. And so they're kind of stuck. They're outside of their world. And for this
+particular transient, they're at a great disadvantage.
 
-The formal response to Three Mile Island is the old response, which is the human factors sort of basic watchword, which is blame and train. If you look at what the reports say, they want to identify these operators as the failure. They are, after all ,the ones made the errors, and their idea is more training will somehow fix their problem. That if we train them better, they'll become better at dealing with this and so forth. But nobody really buys this. Because these guys are already well-trained and in fact, there's plenty of technical stuff there. It's much more sophisticated than that.
+The formal response to Three Mile Island is the old response, which is the human
+factors sort of basic watchword, which is "blame and train". If you look at what
+the reports say, they want to identify these operators as the failure. They are,
+after all ,the ones made the errors, and their idea is more training will
+somehow fix their problem. That if we train them better, they'll become better
+at dealing with this and so forth. But nobody really buys this. Because these
+guys are already well-trained and in fact, there's plenty of technical stuff
+there. It's much more sophisticated than that. And so the training description
+doesn't actually cut it. It's not sufficient to describe what has actually
+happened and to correct it.
 
-And so the training description doesn't actually cut it. It's not sufficient to describe what has actually happened than to correct it.
+It's Rasmussen's 1981 paper on complexity, where he says for industrial plants,
+the complexity faced by operators is determined by the representation of the
+internal state of the system, which the interface allows the operator to develop
+for various work conditions. This is Rasmussen saying, it doesn't matter what's
+happening here.  You can't have this without doing some inference from this
+collection of data that you see here. And the question then becomes, it really
+becomes how do you design the control room so that people will be able to figure
+out what's going on? And the problem, of course, is that you don't have to design
+the control room just so that it works when the plant is working fine. You have
+to think about all the various ways in which the plant can fail and allow the
+operators to be able to figure things out in those conditions. And it turns out
+that the plants can fail in ways that nobody really expected.
 
-It's Rasmussen's 1981 paper on complexity, where he says for industrial plants, the complexity faced by operators is determined by the representation of the internal state of the system, which the interface allows the operator to develop for various work conditions. This is Rasmussen saying, it doesn't matter what's happening here.
+This particular failure, that is not a straight loss of cooling accident, where
+you cut across a three-foot pipe and all the water's draining out, but one where
+it's floating out through this relief valve that isn't really thought to be a
+major part of the system. This process here is not one that they thought of. In
+fact, they had the same accident at another nuclear power plant earlier the
+previous year and where this particular valve, it's stuck open, they got very
+much the same behavior, but they recognized it and corrected it. This is not an
+unheard-of failure, but it's a failure for which no one had really done anything
+or considered anything about how to deal with these particular problems.
 
-You can't have this without doing some inference from this collection of data that you see here. And the question then becomes, it really becomes how do you design the control room so that people will be able to figure out what's going on? And the problem of course, is that you don't have to design the control room just so that it works when the plant is working fine. You have to think about all the various ways in which the plant can fail and allow the operators to be able to figure things out in those conditions. And it turns out that the plants can fail in ways that nobody really expected.
+In "Skills, Rules, and Knowledge", Rasmussen finally takes a hold of this and
+develops a kind of model or system that he thinks of that's going to be able to
+help understand why plants fail and how you build interfaces, what you need to
+do. "Skills, Rules and Knowledge" is one of these papers that gets cited all the
+time, but is rarely read and "skills, rules, and knowledge" as a topic is one of
+the things that is most often misunderstood by people who are trying to figure
+out how to make human performance better.
 
-This particular failure, that is not a straight loss of cooling accident, where you cut across a three-foot pipe and all the water's draining out, but one where it's floating out through this relief valve that isn't really thought to be a major part of the system. This process here is not one that they thought of. In fact, they had the same accident at another nuclear power plant earlier the previous year and where this particular valve, it's stuck open, they got very much the same behavior, but they recognized it and corrected it. This is not an unheard of failure, but a failure for which no one had really done anything or considered anything about how to deal with these particular problems.
-
-In skills, rules, and knowledge, Rasmussen finally takes a hold of this and develops a kind of model or system that he thinks of that's going to be able to help understand why plants fail and how you build interfaces, what you need to do. Skills rules and knowledge is one of these papers that gets cited all the time, but is rarely read and skills, rules, and knowledge as a topic is one of the things that is most often misunderstood by people who are trying to figure out how to make human performance better.
+(53:49)
 
 What Rasmussen says is that there are signs in the world. There are signals and there are symbols and that human processing of data can sometimes take place down at the signal level, especially if it's a fine motor activity like controlling a knob, an example would be bicycling. Or trying to play a video game in which you have to some simple task like pong, where you're trying to move something back and forth. Anything that involves fine analog motor movements.
 
