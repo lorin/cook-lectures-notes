@@ -56,15 +56,49 @@ can send one out. Do you have a hard copy?
 
 ## Why is Three Mile Island so important?
 
-And most of this is a way of getting us into the topic of why Three Mile Island is so important and why it shapes all of the kinds of questions and issues that appear now, when people talk about studying cognitive work, if you try and look today at cognitive work studies, particularly those surrounding safety or human performance kinds of issues. This includes studies of people in simulators and work studies and incident reporting studies and accident investigation studies that entire collection of materials, the way it's done the way it is interpreted really draws its source from Three Mile Island.
+And most of this is a way of getting us into the topic of why Three Mile Island
+is so important and why it shapes all of the kinds of questions and issues that
+appear now, when people talk about studying cognitive work, if you try and look
+today at cognitive work studies, particularly those surrounding safety or human
+performance kinds of issues. This includes studies of people in simulators and
+work studies and incident reporting studies and accident investigation studies
+that entire collection of materials, the way it's done the way it is interpreted
+really draws its source from Three Mile Island.
 
-Although human factors began earlier... really began in the late eighten hundreds with work on railroads and trying to understand safety on railroads. It took off as a kind of special discipline around the time of world war II, as people were trying to make weapons systems more effective and trying to figure out how to make guns and bombs and other things that were better and more easily controlled, and also trying to prevent plane crashes and aircraft that were happening about the time.
+Although human factors began earlier... really began in the late eighten
+hundreds with work on railroads and trying to understand safety on railroads. It
+took off as a kind of special discipline around the time of world war II, as
+people were trying to make weapons systems more effective and trying to figure
+out how to make guns and bombs and other things that were better and more easily
+controlled, and also trying to prevent plane crashes and aircraft that were
+happening about the time.
 
-It was a joke in human factors that, until 1979, the only two kinds of subjects that got any attention from human factors people were when someone died who shouldn't have, or someone didn't die who should have. And that was mostly either safety of aircraft or transportation systems or the failure of weapons systems to perform the way that they wanted. And it's probably mostly true.
+It was a joke in human factors that, until 1979, the only two kinds of subjects
+that got any attention from human factors people were when someone died who
+shouldn't have, or someone didn't die who should have. And that was mostly
+either safety of aircraft or transportation systems or the failure of weapons
+systems to perform the way that they wanted. And it's probably mostly true.
 
-Most of these systems that were getting human factors attention, were getting attention because of the knobs and dials features. You all know the kind of classic human factor story about trying to shape the landing gear control so that it was physically different than the flaps control, because both were on the side of the pilot in below,and he could reach down and easily think that he was lowering the landing gear when in fact he was lowering the flaps. And by changing the landing gear handle to have the shape of a wheel so it felt like the landing gear, you provided a communication to the pilot about what control he was actually touching so that when he moved it, he knew what it was he was actually affecting. That's the sort of classic human factors thing. If you're asking for a model, what is human factors? Most people would say, ah, that's the example we would look to.
+Most of these systems that were getting human factors attention, were getting
+attention because of the knobs and dials features. You all know the kind of
+classic human factor story about trying to shape the landing gear control so
+that it was physically different than the flaps control, because both were on
+the side of the pilot in below,and he could reach down and easily think that he
+was lowering the landing gear when in fact he was lowering the flaps. And by
+changing the landing gear handle to have the shape of a wheel so it felt like
+the landing gear, you provided a communication to the pilot about what control
+he was actually touching so that when he moved it, he knew what it was he was
+actually affecting. That's the sort of classic human factors thing. If you're
+asking for a model, what is human factors? Most people would say, ah, that's the
+example we would look to.
 
-What happened over the next 20 years or so, is that people started to build very large and very complex systems that involved extraordinary amounts of energy. This was, there were power plant failures and problems with power plants, particularly steam engines blowing up, both moving steam engines and stationary ones. And that happened from the 18 early 18 hundreds all the way through the 19 hundreds and the biggest kind of industrial accident that you could have short of a bridge collapsing was to have your steam boiler explode.
+What happened over the next 20 years or so, is that people started to build very
+large and very complex systems that involved extraordinary amounts of energy.
+This was, there were power plant failures and problems with power plants,
+particularly steam engines blowing up, both moving steam engines and stationary
+ones. And that happened from the early eighteen hundreds all the way through the
+nineteen hundreds and the biggest kind of industrial accident that you could have
+short of a bridge collapsing was to have your steam boiler explode.
 
 And this was not an uncommon event. There are lots and lots of spectacular wrecks that occurred and buildings that were damaged and so forth. But by the 1930s or so, the control of these things was pretty well understood. Their mechanics and physics were well known and steam boiler explosions became relatively infrequent.
 
