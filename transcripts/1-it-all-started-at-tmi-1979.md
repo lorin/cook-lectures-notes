@@ -671,6 +671,8 @@ much the same behavior, but they recognized it and corrected it. This is not an
 unheard-of failure, but it's a failure for which no one had really done anything
 or considered anything about how to deal with these particular problems.
 
+## Skills, rules, and knowledge
+
 In "Skills, Rules, and Knowledge", Rasmussen finally takes a hold of this and
 develops a kind of model or system that he thinks of that's going to be able to
 help understand why plants fail and how you build interfaces, what you need to
@@ -681,11 +683,26 @@ out how to make human performance better.
 
 (53:49)
 
-What Rasmussen says is that there are signs in the world. There are signals and there are symbols and that human processing of data can sometimes take place down at the signal level, especially if it's a fine motor activity like controlling a knob, an example would be bicycling. Or trying to play a video game in which you have to some simple task like pong, where you're trying to move something back and forth. Anything that involves fine analog motor movements.
+What Rasmussen says is that there are signs in the world, there are signals and
+there are symbols, and that human processing of data can sometimes take place
+down at the signal level, especially if it's a fine motor activity like
+controlling a knob; an example would be bicycling or trying to play a video game
+in which you have some simple task like pong, where you're trying to move
+something back and forth. Anything that involves fine analog motor movements.
 
-In that world, people can work directly on signals, concrete things coming from the world, their actual sensory impressions allow them to do this. That is, you can look at sensory input processing in the brain and find direct connections to the motor activities that people are having. And there's not much else that's required.
+In that world, people can work directly on signals, concrete things coming from
+the world, their actual sensory impressions allow them to do this. That is, you
+can look at sensory input processing in the brain and find direct connections to
+the motor activities that people are having, and there's not much else that's
+required.
 
-But for all other kinds of activities, there must be some interpretation of these things that are going on in the world so that people can understand what they mean. That is the signals become signs that have some particular meaning. The meaning isn't carried in the signal itself, it's carried in an understanding of the world that the person has that they've imposed on it. The meaning of a sign is derived from the understanding of the world. It's teleological rather than simply derived from the signal itself.
+But for all other kinds of activities, there must be some *interpretation* of
+these things that are going on in the world so that people can understand what
+they mean. That is the signals become signs that have some particular meaning.
+The meaning isn't carried in the signal itself, it's carried in an understanding
+of the world that the person has that they've imposed on it. The meaning of a
+sign is derived from the understanding of the world. It's teleological rather
+than simply derived from the signal itself.
 
 The example that Rasmussen gives is, you can have the same meter mean three different things. This can be a signal if what you are doing is trying to, for instance, use a control knob and turn to get the meter to read something in a short period of time. That's just a signal. The interaction is a motor thing between how you turn the knob and what the needle does.
 
