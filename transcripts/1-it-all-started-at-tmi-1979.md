@@ -38,10 +38,10 @@ that was commissioned related to the event and contains a whole bunch of
 technical details as well as a nice narrative. And that was the bulk of what
 we handed out.
 
-And then there were two commentaries. The first commentary was from Thomas
+And then there were two commentaries. [The first commentary](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_thomas_h_pigford.htm) was from Thomas
 Pigford, who was a nuclear engineer and somebody who is a big proponent of
 nuclear safety, but also an engineering type as engineering kind of view. And
-one from Bruce Babbitt, who was a former governor in the United States, who
+[one from Bruce Babbitt](http://www.pddoc.com/tmi2/kemeny/supplemental_view_by_bruce_babbitt.htm), who was a former governor in the United States, who
 was also on the commission that looked at this.
 
 And then there were a couple of papers. One was [coping with complexity](https://orbit.dtu.dk/en/publications/coping-with-complexity),
